@@ -14,24 +14,3 @@
     
   </channel>
 </rss>
-thor/yunlu-chen/</link>
-    </image>
-    
-    <item>
-      <title>Neural Feature Matching in Implicit 3D Representations</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/chen-icml-2021-/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/chen-icml-2021-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PointMixup: Augmentation for Point Clouds</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/pointmixup/</link>
-      <pubDate>Sat, 22 Aug 2020 17:38:59 +0200</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pointmixup/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
