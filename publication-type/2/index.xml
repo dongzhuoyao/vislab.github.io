@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/publication-type/2/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Triage of 12‐Lead ECGs Using Deep Convolutional Neural Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/leur-jaha-2020-/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/leur-jaha-2020-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixel-level non-local image smoothing with objective evaluation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/xu-tmm-2020/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/xu-tmm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the temporal dynamics of neural responses in human visual cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/groen-jov-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/groen-jov-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrocorticography Evidence of Tactile Responses in Visual Cortices</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/gaglianese-brain-2020/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/gaglianese-brain-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low‐level image statistics in natural scenes infuence perceptual decision‐making</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/seijdel-scientific_report-2020/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/seijdel-scientific_report-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixelated Semantic Colorization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhao-ijcv-2020/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhao-ijcv-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Cross-Domain Visual Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/thong-cviu-2020/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/thong-cviu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuffled ImageNet-Banks for Video Event Detection and Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-tomm-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-tomm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guess Where? Actor-Supervision for Spatiotemporal Video Action Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/escorcia-cviu-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/escorcia-cviu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Balance-Based Cluster Boundary Detection for High-Dimensional Data</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/cao-nnls-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/cao-nnls-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Modality: Emoji Challenges in Prediction, Anticipation, and Retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/cappallo-tmm-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/cappallo-tmm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointly-Supervised Action Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-ijcv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-ijcv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repetition Estimation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-ijcv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-ijcv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Visual Features from Text for Image and Video Caption Retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/dong-tmm-2018/</link>
+      <pubDate>Thu, 20 Sep 2018 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/dong-tmm-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action recognition with dynamic image networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/bilen-tpami-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/bilen-tpami-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflectance and natural illumination from single-material specular objects using deep learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/georgoulis-tpami-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/georgoulis-tpami-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VideoLSTM Convolves, Attends and Flows for Action Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/li-cviu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/li-cviu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
