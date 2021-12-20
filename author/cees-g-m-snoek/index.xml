@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cees G M Snoek | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cees G M Snoek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cees G M Snoek</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</link>
+    </image>
+    
+    <item>
+      <title>Safe Fakes: Evaluating Face Anonymizers for Face Detectors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sander-icafgr-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sander-icafgr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature and Label Embedding Spaces Matter in Addressing Image Classifier Bias</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/william-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/william-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion-Augmented Self-Training for Video Recognition at Smaller Scale</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/kirill-iccv-2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/kirill-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

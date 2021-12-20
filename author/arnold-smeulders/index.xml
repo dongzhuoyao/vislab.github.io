@@ -5,12 +5,28 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/arnold-smeulders/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/arnold-smeulders/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnold Smeulders</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Arnold Smeulders</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/arnold-smeulders/</link>
     </image>
+    
+    <item>
+      <title>DISCO: accurate Discrete Scale Convolutions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ivan-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ivan-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Object Interaction Detection via Weak Supervision</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mert-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mert-bmvc-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Counterfactual attribute-based visual explanations for classification</title>

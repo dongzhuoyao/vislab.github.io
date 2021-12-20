@@ -5,17 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/yunhua-zhang/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/yunhua-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunhua Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yunhua Zhang</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/yunhua-zhang/</link>
     </image>
     
-  </channel>
-</rss>
-or/yunhua-zhang/</link>
-    </image>
+    <item>
+      <title>Learning Regression and Verification Networks for Robust Long-term Tracking</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yunhua-ijcv-2021/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yunhua-ijcv-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Repetitive Activity Counting by Sight and Sound</title>

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Safe Fakes: Evaluating Face Anonymizers for Face Detectors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sander-icafgr-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sander-icafgr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>WeakSTIL: Weak whole-slide image level stromal tumor infiltrating lymphocyte scores are all you need</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yoni-spie_mi-2021/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Roto-translated Local Coordinate Frames For Interacting Dynamical Systems</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-neurips-2021-/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-neurips-2021-/</guid>
+      <title>Bias Out-of-the-Box: An Empirical Analysis of Intersectional Occupational Biases in Popular Generative Language Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hannah-neurips-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hannah-neurips-2021/</guid>
       <description></description>
     </item>
     
@@ -37,10 +45,66 @@
     </item>
     
     <item>
+      <title>Keeping Your Eye On the Ball: Trajectory Attention in Video Transformers</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mandela-neurips-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mandela-neurips-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASS: An ImageNet replacement for self-supervised pretraining without humans</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-ds-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-ds-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roto-translated Local Coordinate Frames For Interacting Dynamical Systems</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-neurips-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-neurips-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Multi-Task Learning with Gumbel-Softmax Priors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jiayi-neurips-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jiayi-neurips-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diagnosing Errors in Video Relation Detectors</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/shuo-bmvc-2021/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/shuo-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DISCO: accurate Discrete Scale Convolutions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ivan-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ivan-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature and Label Embedding Spaces Matter in Addressing Image Classifier Bias</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/william-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/william-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Object Interaction Detection via Weak Supervision</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mert-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mert-bmvc-2021/</guid>
       <description></description>
     </item>
     
@@ -54,9 +118,17 @@
     
     <item>
       <title>Zero-Shot Action Recognition from Diverse Object-Scene Compositions</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/carlo-bmvc-2021-/</link>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/carlo-bmvc-2021/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/carlo-bmvc-2021-/</guid>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/carlo-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hierarchical Embedding for Video Instance Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhequn-acmmm-2021/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhequn-acmmm-2021/</guid>
       <description></description>
     </item>
     
@@ -69,10 +141,50 @@
     </item>
     
     <item>
+      <title>Motion-Augmented Self-Training for Video Recognition at Smaller Scale</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/kirill-iccv-2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/kirill-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Fabric: Tubelet Compositions for Video Relation Detection</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/shuo-iccv-2021/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/shuo-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Crop &amp; Attend: Improving Cross-modal Video Representation Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021-2/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Compositions of Transformations in Contrastive Self-Supervised Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Adapt with Memory for Probabilistic Few-Shot Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/lei-itcsvt-2021/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/lei-itcsvt-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hateful Memes Challenge: Competition Report</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/philip-pmlr-2021/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/philip-pmlr-2021/</guid>
       <description></description>
     </item>
     
@@ -109,10 +221,26 @@
     </item>
     
     <item>
+      <title>Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-acl-2021/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-acl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Few-Shot Transformation of Common Actions into Time and Space</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-cvpr-2021/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-cvpr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiresolution Knowledge Distillation for Anomaly Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-cvpr-2021/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-cvpr-2021/</guid>
       <description></description>
     </item>
     
@@ -177,6 +305,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/davidzhang-iclr-2021/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/davidzhang-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support-set bottlenecks for video-text representation learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iclr-2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iclr-2021/</guid>
       <description></description>
     </item>
     
