@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Seminar Learning for Click-Level Weakly Supervised Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hongjun-iccv-2021-/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hongjun-iccv-2021-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Bit More Bayesian: Domain-Invariant Learning with Uncertainty</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
@@ -45,6 +53,30 @@
     </item>
     
     <item>
+      <title>Variational Topic Inference for Chest X-Ray Report Generation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ivona-miccai-2021/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ivona-miccai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep 3D human pose estimation: A review</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jinbao-cviu-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jinbao-cviu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational prototype inference for few-shot semantic segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/haochen-wacv-2021/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/haochen-wacv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Repetitive Activity Counting by Sight and Sound</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yunhua-cvpr-2021/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
@@ -57,6 +89,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Knowledge Distillation for Disease Classification in Chest X-Rays</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tom-ipmi-2021/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tom-ipmi-2021/</guid>
       <description></description>
     </item>
     

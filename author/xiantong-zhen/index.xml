@@ -37,10 +37,26 @@
     </item>
     
     <item>
+      <title>Seminar Learning for Click-Level Weakly Supervised Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hongjun-iccv-2021-/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hongjun-iccv-2021-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning to Adapt with Memory for Probabilistic Few-Shot Learning</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/lei-itcsvt-2021/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/lei-itcsvt-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Attention Networks for Skeleton-Based Action Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ce-tnnls-2021/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ce-tnnls-2021/</guid>
       <description></description>
     </item>
     
@@ -61,6 +77,22 @@
     </item>
     
     <item>
+      <title>Learning to Learn Dense Gaussian Processes for Few-Shot Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ze-neurips-2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ze-neurips-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Topic Inference for Chest X-Ray Report Generation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ivona-miccai-2021/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ivona-miccai-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-acl-2021/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
@@ -69,10 +101,34 @@
     </item>
     
     <item>
+      <title>Deep 3D human pose estimation: A review</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jinbao-cviu-2021/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jinbao-cviu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational prototype inference for few-shot semantic segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/haochen-wacv-2021/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/haochen-wacv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MetaNorm: Learning to Normalize Few-Shot Batches Across Domains</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Knowledge Distillation for Disease Classification in Chest X-Rays</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tom-ipmi-2021/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tom-ipmi-2021/</guid>
       <description></description>
     </item>
     
