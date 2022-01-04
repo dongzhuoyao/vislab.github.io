@@ -422,6 +422,9 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/antonino-furnari/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/davide-moltisanti/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -429,6 +432,9 @@
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/evangelos-kazakos/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/generative-model/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/giovanni-maria-farinella/</loc>
@@ -443,7 +449,13 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/michael-wray/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2021/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/dima-ijcv-2021/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/subhransu-maji/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/toby-perrett/</loc>
@@ -451,6 +463,12 @@
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/will-price/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/zenglin-shi/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/andreas-panteli/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/bernie-huang/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
@@ -462,6 +480,9 @@
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/hongjun-chen/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/hugo-horlings/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/ilia-karmanov/</loc>
@@ -491,7 +512,7 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021-2/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/zenglin-shi/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/andreas-iccv-2021/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/geoffrey-zweig/</loc>
@@ -635,13 +656,7 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/basura-fernando/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/continual-learning/</loc>
-    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/generative-model/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/hakan-bilen/</loc>
@@ -1288,9 +1303,6 @@
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/taco-cohen/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/andreas-panteli/</loc>
-    <lastmod>2020-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/deepak-k.-gupta/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
