@@ -21,10 +21,50 @@
     </item>
     
     <item>
+      <title>Hierarchical Variational Memory for Few-shot Learning Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalize across Domains on Single Test Samples</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/david-iclr-2022/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability Regularization for Discrete Representation Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/adeel-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/adeel-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio-Adaptive Activity Recognition Across Video Domains</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yunhua-cvpr-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yunhua-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoxeR: Box-Attention for 2D and 3D Transformers</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</guid>
       <description></description>
     </item>
     
@@ -41,6 +81,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/mina-cvpr-2022/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/mina-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TubeR: Tubelet Transformer for Video Action Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jiaojiao-cvpr-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jiaojiao-cvpr-2022/</guid>
       <description></description>
     </item>
     
