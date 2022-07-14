@@ -26,10 +26,10 @@
   
     
   
-  <meta name="description" content="Variational autoencoders with deep stochastic hierarchies are known to suffer from the problem of posterior collapse, where the top layers fall back to the prior and become independent of input. We suggest that the hierarchical VAE objective explicitly includes the variance of the function parameterizing the mean and variance of the latent Gaussian distribution which itself is often a high variance function. Building on this we generalize VAE neural networks by incorporating a smoothing parameter motivated by Gaussian analysis to reduce higher frequency components and consequently the variance in parameterizing functions. We show this helps to solve the problem of posterior collapse. We further show that under such smoothing the VAE loss exhibits a phase transition, where the top layer KL divergence sharply drops to zero at a critical value of the smoothing parameter that is similar for the same model across datasets. We validate the phenomenon across model configurations and datasets.">
+  <meta name="description" content="Machine learning recently proved efficient in learning differential equations and dynamical systems from data. However, the data is commonly assumed to originate from a single never-changing system. In contrast, when modeling real-world dynamical processes, the data distribution often shifts due to changes in the underlying system dynamics. Continual learning of these processes aims to rapidly adapt to abrupt system changes without forgetting previous dynamical regimes. This work proposes an approach to continual learning based on reservoir computing, a state-of-the-art method for training recurrent neural networks on complex spatiotemporal dynamical systems. Reservoir computing fixes the recurrent network weights - hence these cannot be forgotten - and only updates linear projection heads to the output. We propose to train multiple competitive prediction heads concurrently. Inspired by neuroscience’s predictive coding, only the most predictive heads activate, laterally inhibiting and thus protecting the inactive heads from forgetting induced by interfering parameter updates. We show that this multi-head reservoir minimizes interference and catastrophic forgetting on several dynamical systems, including the Van-der-Pol oscillator, the chaotic Lorenz attractor, and the high-dimensional Lorenz-96 weather model. Our results suggest that reservoir computing is a promising candidate framework for the continual learning of dynamical systems. We provide our code for data generation, method and comparisons at https://github.com/leonardbereska/multiheadreservoir">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/">
+  <link rel="alternate" hreflang="en-us" href="https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/">
 
   
 
@@ -240,7 +240,7 @@
   <link rel="icon" type="image/png" href="/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/">
+  <link rel="canonical" href="https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/">
 
   
   
@@ -255,15 +255,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="VIS Lab">
-  <meta property="og:url" content="https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/">
-  <meta property="og:title" content="Spectral Smoothing Unveils Phase Transitions in Hierarchical Variational Autoencoders | VIS Lab">
-  <meta property="og:description" content="Variational autoencoders with deep stochastic hierarchies are known to suffer from the problem of posterior collapse, where the top layers fall back to the prior and become independent of input. We suggest that the hierarchical VAE objective explicitly includes the variance of the function parameterizing the mean and variance of the latent Gaussian distribution which itself is often a high variance function. Building on this we generalize VAE neural networks by incorporating a smoothing parameter motivated by Gaussian analysis to reduce higher frequency components and consequently the variance in parameterizing functions. We show this helps to solve the problem of posterior collapse. We further show that under such smoothing the VAE loss exhibits a phase transition, where the top layer KL divergence sharply drops to zero at a critical value of the smoothing parameter that is similar for the same model across datasets. We validate the phenomenon across model configurations and datasets."><meta property="og:image" content="https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/featured.png">
-  <meta property="twitter:image" content="https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/">
+  <meta property="og:title" content="Continual Learning of Dynamical Systems With Competitive Federated Reservoir Computing | VIS Lab">
+  <meta property="og:description" content="Machine learning recently proved efficient in learning differential equations and dynamical systems from data. However, the data is commonly assumed to originate from a single never-changing system. In contrast, when modeling real-world dynamical processes, the data distribution often shifts due to changes in the underlying system dynamics. Continual learning of these processes aims to rapidly adapt to abrupt system changes without forgetting previous dynamical regimes. This work proposes an approach to continual learning based on reservoir computing, a state-of-the-art method for training recurrent neural networks on complex spatiotemporal dynamical systems. Reservoir computing fixes the recurrent network weights - hence these cannot be forgotten - and only updates linear projection heads to the output. We propose to train multiple competitive prediction heads concurrently. Inspired by neuroscience’s predictive coding, only the most predictive heads activate, laterally inhibiting and thus protecting the inactive heads from forgetting induced by interfering parameter updates. We show that this multi-head reservoir minimizes interference and catastrophic forgetting on several dynamical systems, including the Van-der-Pol oscillator, the chaotic Lorenz attractor, and the high-dimensional Lorenz-96 weather model. Our results suggest that reservoir computing is a promising candidate framework for the continual learning of dynamical systems. We provide our code for data generation, method and comparisons at https://github.com/leonardbereska/multiheadreservoir"><meta property="og:image" content="https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022/featured.png">
+  <meta property="twitter:image" content="https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-07-06T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2022-07-10T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-07-06T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-07-10T00:00:00&#43;00:00">
   
 
   
@@ -285,20 +285,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/"
+    "@id": "https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/"
   },
-  "headline": "Spectral Smoothing Unveils Phase Transitions in Hierarchical Variational Autoencoders",
+  "headline": "Continual Learning of Dynamical Systems With Competitive Federated Reservoir Computing",
   
   "image": [
-    "https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/featured.png"
+    "https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022/featured.png"
   ],
   
-  "datePublished": "2021-07-06T00:00:00Z",
-  "dateModified": "2021-07-06T00:00:00Z",
+  "datePublished": "2022-07-10T00:00:00Z",
+  "dateModified": "2022-07-10T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Adeel Pervez"
+    "name": "Leonard Bereska"
   },
   
   "publisher": {
@@ -309,7 +309,7 @@
       "url": "https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Variational autoencoders with deep stochastic hierarchies are known to suffer from the problem of posterior collapse, where the top layers fall back to the prior and become independent of input. We suggest that the hierarchical VAE objective explicitly includes the variance of the function parameterizing the mean and variance of the latent Gaussian distribution which itself is often a high variance function. Building on this we generalize VAE neural networks by incorporating a smoothing parameter motivated by Gaussian analysis to reduce higher frequency components and consequently the variance in parameterizing functions. We show this helps to solve the problem of posterior collapse. We further show that under such smoothing the VAE loss exhibits a phase transition, where the top layer KL divergence sharply drops to zero at a critical value of the smoothing parameter that is similar for the same model across datasets. We validate the phenomenon across model configurations and datasets."
+  "description": "Machine learning recently proved efficient in learning differential equations and dynamical systems from data. However, the data is commonly assumed to originate from a single never-changing system. In contrast, when modeling real-world dynamical processes, the data distribution often shifts due to changes in the underlying system dynamics. Continual learning of these processes aims to rapidly adapt to abrupt system changes without forgetting previous dynamical regimes. This work proposes an approach to continual learning based on reservoir computing, a state-of-the-art method for training recurrent neural networks on complex spatiotemporal dynamical systems. Reservoir computing fixes the recurrent network weights - hence these cannot be forgotten - and only updates linear projection heads to the output. We propose to train multiple competitive prediction heads concurrently. Inspired by neuroscience’s predictive coding, only the most predictive heads activate, laterally inhibiting and thus protecting the inactive heads from forgetting induced by interfering parameter updates. We show that this multi-head reservoir minimizes interference and catastrophic forgetting on several dynamical systems, including the Van-der-Pol oscillator, the chaotic Lorenz attractor, and the high-dimensional Lorenz-96 weather model. Our results suggest that reservoir computing is a promising candidate framework for the continual learning of dynamical systems. We provide our code for data generation, method and comparisons at https://github.com/leonardbereska/multiheadreservoir"
 }
 </script>
 
@@ -327,7 +327,7 @@
 
 
 
-  <title>Spectral Smoothing Unveils Phase Transitions in Hierarchical Variational Autoencoders | VIS Lab</title>
+  <title>Continual Learning of Dynamical Systems With Competitive Federated Reservoir Computing | VIS Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -542,10 +542,12 @@
 
   
   
+    
+  
 
 
 <div class="article-container pt-3">
-  <h1>Spectral Smoothing Unveils Phase Transitions in Hierarchical Variational Autoencoders</h1>
+  <h1>Continual Learning of Dynamical Systems With Competitive Federated Reservoir Computing</h1>
 
   
 
@@ -562,7 +564,7 @@
     
 
   
-  <span >Adeel Pervez</span>, <span >Efstratios Gavves</span>
+  <span >Leonard Bereska</span>, <span >Efstratios Gavves</span>
   </div>
   
   
@@ -573,7 +575,7 @@
     
       
     
-    July 2021
+    July 2022
   </span>
   
 
@@ -623,18 +625,34 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://proceedings.mlr.press/v139/pervez21a/pervez21a.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2206.13336" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/vislab/publication/adeel-icml-2021/cite.bib">
+        data-filename="/vislab/publication/leonard-icml-2022/cite.bib">
   Cite
 </button>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/leonardbereska/multiheadreservoir" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/leonardbereska/multiheadreservoir" target="_blank" rel="noopener">
+  Dataset
+</a>
 
 
 
@@ -654,9 +672,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 635px; max-height: 222px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 175px;">
   <div style="position: relative">
-    <img src="/vislab/publication/adeel-icml-2021/featured.png" alt="" class="featured-image">
+    <img src="/vislab/publication/leonard-icml-2022/featured_hu0fef3a49edc7c9ee9c295a7ba21aaac0_429919_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -667,7 +685,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Variational autoencoders with deep stochastic hierarchies are known to suffer from the problem of posterior collapse, where the top layers fall back to the prior and become independent of input. We suggest that the hierarchical VAE objective explicitly includes the variance of the function parameterizing the mean and variance of the latent Gaussian distribution which itself is often a high variance function. Building on this we generalize VAE neural networks by incorporating a smoothing parameter motivated by Gaussian analysis to reduce higher frequency components and consequently the variance in parameterizing functions. We show this helps to solve the problem of posterior collapse. We further show that under such smoothing the VAE loss exhibits a phase transition, where the top layer KL divergence sharply drops to zero at a critical value of the smoothing parameter that is similar for the same model across datasets. We validate the phenomenon across model configurations and datasets.</p>
+    <p class="pub-abstract">Machine learning recently proved efficient in learning differential equations and dynamical systems from data. However, the data is commonly assumed to originate from a single never-changing system. In contrast, when modeling real-world dynamical processes, the data distribution often shifts due to changes in the underlying system dynamics. Continual learning of these processes aims to rapidly adapt to abrupt system changes without forgetting previous dynamical regimes. This work proposes an approach to continual learning based on reservoir computing, a state-of-the-art method for training recurrent neural networks on complex spatiotemporal dynamical systems. Reservoir computing fixes the recurrent network weights - hence these cannot be forgotten - and only updates linear projection heads to the output. We propose to train multiple competitive prediction heads concurrently. Inspired by neuroscience’s predictive coding, only the most predictive heads activate, laterally inhibiting and thus protecting the inactive heads from forgetting induced by interfering parameter updates. We show that this multi-head reservoir minimizes interference and catastrophic forgetting on several dynamical systems, including the Van-der-Pol oscillator, the chaotic Lorenz attractor, and the high-dimensional Lorenz-96 weather model. Our results suggest that reservoir computing is a promising candidate framework for the continual learning of dynamical systems. We provide our code for data generation, method and comparisons at <a href="https://github.com/leonardbereska/multiheadreservoir">https://github.com/leonardbereska/multiheadreservoir</a></p>
     
 
     
@@ -697,7 +715,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">ICML 2021</div>
+          <div class="col-12 col-md-9">CoLLAs 2022</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -718,7 +736,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/vislab/tag/generative-model/">generative model</a>
+  <a class="badge badge-light" href="/vislab/tag/continual-learning/">Continual Learning</a>
   
 </div>
 
@@ -735,7 +753,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/&amp;text=Spectral%20Smoothing%20Unveils%20Phase%20Transitions%20in%20Hierarchical%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/&amp;text=Continual%20Learning%20of%20Dynamical%20Systems%20With%20Competitive%20Federated%20Reservoir%20Computing" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -748,7 +766,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/&amp;t=Spectral%20Smoothing%20Unveils%20Phase%20Transitions%20in%20Hierarchical%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/&amp;t=Continual%20Learning%20of%20Dynamical%20Systems%20With%20Competitive%20Federated%20Reservoir%20Computing" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -761,7 +779,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Spectral%20Smoothing%20Unveils%20Phase%20Transitions%20in%20Hierarchical%20Variational%20Autoencoders&amp;body=https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Continual%20Learning%20of%20Dynamical%20Systems%20With%20Competitive%20Federated%20Reservoir%20Computing&amp;body=https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -774,7 +792,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/&amp;title=Spectral%20Smoothing%20Unveils%20Phase%20Transitions%20in%20Hierarchical%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/&amp;title=Continual%20Learning%20of%20Dynamical%20Systems%20With%20Competitive%20Federated%20Reservoir%20Computing" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -787,7 +805,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Spectral%20Smoothing%20Unveils%20Phase%20Transitions%20in%20Hierarchical%20Variational%20Autoencoders%20https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Continual%20Learning%20of%20Dynamical%20Systems%20With%20Competitive%20Federated%20Reservoir%20Computing%20https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -800,7 +818,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ivi.fnwi.uva.nl/vislab/publication/adeel-icml-2021/&amp;title=Spectral%20Smoothing%20Unveils%20Phase%20Transitions%20in%20Hierarchical%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ivi.fnwi.uva.nl/vislab/publication/leonard-icml-2022-/&amp;title=Continual%20Learning%20of%20Dynamical%20Systems%20With%20Competitive%20Federated%20Reservoir%20Computing" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -860,15 +878,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/vislab/publication/phillip-iclr-2021/">Categorical Normalizing Flows via Continuous Transformations</a></li>
+      <li><a href="/vislab/publication/mohammad-icml-2021/">Kernel Continual Learning</a></li>
       
-      <li><a href="/vislab/publication/zenglin-ijcv-2022/">On Measuring and Controlling the Spectral Bias of the Deep Image Prior</a></li>
+      <li><a href="/vislab/publication/phillip-icml-2022/">CITRIS - Causal Identifiability from Temporal Intervened Sequences</a></li>
       
-      <li><a href="/vislab/publication/adeel-iclr-2022/">Stability Regularization for Discrete Representation Learning</a></li>
+      <li><a href="/vislab/publication/jieliu-cvpr-2022/">Dynamic Prototype Convolution Network for Few-shot Semantic Segmentation</a></li>
       
-      <li><a href="/vislab/publication/adeel-icml-2020-/">Low Bias Low Variance Gradient Estimates for Boolean Stochastic Networks</a></li>
+      <li><a href="/vislab/publication/haochenwang-cvpr-2022/">NFormer: Robust Person Re-identification with Neighbor Transformer</a></li>
       
-      <li><a href="/vislab/publication/leonard-icml-2022-/">Continual Learning of Dynamical Systems With Competitive Federated Reservoir Computing</a></li>
+      <li><a href="/vislab/publication/phillip-iclr-2022/">Efficient Neural Causal Discovery without Acyclicity Constraints</a></li>
       
     </ul>
   </div>
