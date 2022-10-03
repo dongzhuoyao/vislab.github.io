@@ -5,12 +5,52 @@
     <link>https://ivi.fnwi.uva.nl/vislab/publication/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/</link>
     </image>
+    
+    <item>
+      <title>3D Equivariant Graph Implicit Functions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yunlu-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yunlu-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting quadratic assignments for set-based representation learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/artem-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/artem-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delta Distillation for Efficient Video Processing</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/amirhossein-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/amirhossein-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less than Few: Self-Shot Video Instance Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VTC: Improving Video-Text Retrieval with User Comments</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/laura-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/laura-eccv-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continual Learning of Dynamical Systems With Competitive Federated Reservoir Computing</title>
