@@ -5,12 +5,28 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/index.xml" rel="self" type="application/rss+xml" />
     <description>Cees G. M. Snoek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Cees G. M. Snoek</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</link>
     </image>
+    
+    <item>
+      <title>Association Graph Learning for Multi-Task Classification with Category Shifts</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/shen-neurips-2022/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/shen-neurips-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Model Perturbation for Source-Free Domain Adaptation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jing-neurips-2022/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jing-neurips-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Less than Few: Self-Shot Video Instance Segmentation</title>
