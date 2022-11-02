@@ -142,13 +142,25 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/authors/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/oh-neurips-2022-/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/bayesian-optimization/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/causal-representation-learning/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/changyong-oh/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/classification/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/efstratios-gavves/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/elise-van-der-pol/</loc>
@@ -190,6 +202,9 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/max-van-spengler/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/max-welling/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/kasarla-neurips-2022/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -221,6 +236,9 @@
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/rita-cucchiara/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/roberto-bondesan/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/symmetry-learning/</loc>
@@ -278,9 +296,6 @@
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/amirhossein-eccv-2022/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/efstratios-gavves/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/fatih-porikli/</loc>
@@ -1333,9 +1348,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/action-recognition/</loc>
     <lastmod>2020-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/changyong-oh/</loc>
-    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/d.-gupta/</loc>
     <lastmod>2020-12-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -1977,9 +1989,6 @@
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/b.-fernando/</loc>
     <lastmod>2020-08-23T21:24:40+02:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/bayesian-optimization/</loc>
-    <lastmod>2020-08-23T21:24:42+02:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/oh-icml-2018/</loc>
     <lastmod>2020-08-23T21:24:42+02:00</lastmod>
