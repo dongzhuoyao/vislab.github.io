@@ -5,12 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/ivona-najdenkoska/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/ivona-najdenkoska/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivona Najdenkoska</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ivona Najdenkoska</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/ivona-najdenkoska/</link>
     </image>
+    
+    <item>
+      <title>LifeLonger: A Benchmark for Continual Disease Classification</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-miccai-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-miccai-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variational Topic Inference for Chest X-Ray Report Generation</title>

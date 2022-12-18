@@ -5,12 +5,44 @@
     <link>https://ivi.fnwi.uva.nl/vislab/publication-type/2/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Are 3D convolutional networks inherently biased towards appearance?</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-cviu-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-cviu-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversely-Supervised Visual Product Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/william-tomm-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/william-tomm-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intracranial recordings show evidence of numerosity tuning in human parietal cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jelle-plos-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jelle-plos-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of neural responses in human visual cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/groen-iia-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/groen-iia-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Measuring and Controlling the Spectral Bias of the Deep Image Prior</title>
