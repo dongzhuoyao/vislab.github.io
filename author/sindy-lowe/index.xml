@@ -5,12 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/sindy-lowe/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/sindy-lowe/index.xml" rel="self" type="application/rss+xml" />
     <description>Sindy Löwe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sindy Löwe</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/sindy-lowe/</link>
     </image>
+    
+    <item>
+      <title>Complex-Valued Autoencoders for Object Discovery</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sindy-tmlr-2022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sindy-tmlr-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CITRIS - Causal Identifiability from Temporal Intervened Sequences</title>

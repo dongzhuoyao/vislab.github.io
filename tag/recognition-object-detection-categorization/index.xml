@@ -5,12 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/index.xml" rel="self" type="application/rss+xml" />
     <description>Recognition (object detection, categorization)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recognition (object detection, categorization)</title>
       <link>https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/</link>
     </image>
+    
+    <item>
+      <title>A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hyperbolic Graph Codebooks</title>

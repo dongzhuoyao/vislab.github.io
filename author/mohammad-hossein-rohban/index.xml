@@ -5,12 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/mohammad-hossein-rohban/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/mohammad-hossein-rohban/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Hossein Rohban</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Mohammad Hossein Rohban</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/mohammad-hossein-rohban/</link>
     </image>
+    
+    <item>
+      <title>A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arae: Adversarially robust training of autoencoders improves novelty detection</title>
