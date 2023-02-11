@@ -14,3 +14,32 @@
     
   </channel>
 </rss>
+thor/zehao-xiao/</link>
+    </image>
+    
+    <item>
+      <title>Association Graph Learning for Multi-Task Classification with Category Shifts</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/shen-neurips-2022/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/shen-neurips-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalize across Domains on Single Test Samples</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bit More Bayesian: Domain-Invariant Learning with Uncertainty</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
