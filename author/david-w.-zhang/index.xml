@@ -5,12 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/david-w.-zhang/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/david-w.-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>David W. Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>David W. Zhang</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/david-w.-zhang/</link>
     </image>
+    
+    <item>
+      <title>Robust Scheduling with GFlowNets</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/david-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-iclr-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation</title>
