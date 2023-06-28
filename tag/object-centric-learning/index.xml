@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>object-centric learning | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/tag/object-centric-learning/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/object-centric-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>object-centric learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>object-centric learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/tag/object-centric-learning/</link>
+    </image>
+    
+    <item>
+      <title>Unlocking Slot Attention by Changing Optimal Transport Costs</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/david-icml-2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-icml-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

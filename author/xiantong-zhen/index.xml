@@ -7,7 +7,7 @@
     <description>Xiantong Zhen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xiantong Zhen</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/xiantong-zhen/</link>
     </image>
@@ -16,6 +16,22 @@
 </rss>
 r/xiantong-zhen/</link>
     </image>
+    
+    <item>
+      <title>EMO: Episodic Memory Optimization for Few-Shot Meta-Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-collas-2023/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-collas-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning with Fewer Tasks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icml-2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icml-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail</title>
