@@ -5,17 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/hazel-doughty/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/hazel-doughty/index.xml" rel="self" type="application/rss+xml" />
     <description>Hazel Doughty</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Hazel Doughty</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/hazel-doughty/</link>
     </image>
     
-  </channel>
-</rss>
-r/hazel-doughty/</link>
-    </image>
+    <item>
+      <title>Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?</title>
