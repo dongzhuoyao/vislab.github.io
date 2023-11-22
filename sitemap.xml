@@ -152,10 +152,16 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/bastiaan-s.-veeling/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/cagatay-yildiz/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-snoek/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/dynamical-systems-node-disentanglement/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/efstratios-gavves/</loc>
@@ -164,7 +170,13 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/erik-j-bekkers/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/francesco-locatello/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/hazel-doughty/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/ilze-amanda-auzina/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/interacting-dynamical-systems/</loc>
@@ -185,7 +197,16 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/low-shot/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/matthias-bethge/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/max-welling/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/miltiadis-kofinas/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/ilze-neurips-2023/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/multi-modal-learning/</loc>
@@ -215,6 +236,12 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/richard-e.-turner/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/phillip-neurips-2023_2/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/sara-magliacane/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/sarah-rastegar/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -222,6 +249,9 @@
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/shengcai-liao/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/sindy-lowe/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tags/</loc>
@@ -234,6 +264,9 @@
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/visual-reasoning-and-logical-representation/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/yingjun-du/</loc>
@@ -335,9 +368,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/video-analysis-and-understanding/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/visual-reasoning-and-logical-representation/</loc>
-    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/weidi-xie/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -396,9 +426,6 @@
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/object-centric-learning/</loc>
-    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/sara-magliacane/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/simon-lacoste-julien/</loc>
@@ -524,9 +551,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/pervez-iclr-2023/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/sindy-lowe/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/taco-cohen/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -609,9 +633,6 @@
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/maja-rudolph/</loc>
-    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/max-welling/</loc>
     <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/mendel-engelaer/</loc>
