@@ -332,5 +332,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>HypLL: The Hyperbolic Learning Library</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Prototype Transport for Zero-Shot Action Recognition and Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-ijcv-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-ijcv-2023/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
