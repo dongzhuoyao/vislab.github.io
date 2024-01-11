@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>HypLL: The Hyperbolic Learning Library</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Latent Field Discovery in Interacting Dynamical Systems with Neural Fields</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-neurips-2023/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
@@ -153,6 +161,30 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Spatial Tuning of Visually Driven Alpha Oscillations in Human Visual Cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/iris-elife-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/iris-elife-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Prototype Transport for Zero-Shot Action Recognition and Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-ijcv-2023/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-ijcv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Meta Weighting for Long-Tailed Dynamic Scene Graph Generation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</guid>
       <description></description>
     </item>
     
@@ -1757,42 +1789,10 @@
     </item>
     
     <item>
-      <title>HypLL: The Hyperbolic Learning Library</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Label Meta Weighting for Long-Tailed Dynamic Scene Graph Generation</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>People</title>
       <link>https://ivi.fnwi.uva.nl/vislab/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Precise Spatial Tuning of Visually Driven Alpha Oscillations in Human Visual Cortex</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/iris-elife-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/iris-elife-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universal Prototype Transport for Zero-Shot Action Recognition and Localization</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-ijcv-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-ijcv-2023/</guid>
       <description></description>
     </item>
     

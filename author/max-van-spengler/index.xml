@@ -18,6 +18,14 @@ ax-van-spengler/</link>
     </image>
     
     <item>
+      <title>HypLL: The Hyperbolic Learning Library</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Poincaré ResNet</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/max-iccv-2023/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
@@ -30,14 +38,6 @@ ax-van-spengler/</link>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/kasarla-neurips-2022/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/kasarla-neurips-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HypLL: The Hyperbolic Learning Library</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</guid>
       <description></description>
     </item>
     
