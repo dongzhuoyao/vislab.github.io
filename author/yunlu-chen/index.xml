@@ -14,3 +14,48 @@
     
   </channel>
 </rss>
+thor/yunlu-chen/</link>
+    </image>
+    
+    <item>
+      <title>Graph Neural Networks for Learning Equivariant Representations of Neural Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Equivariant Graph Implicit Functions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yunlu-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yunlu-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Feature Matching in Implicit 3D Representations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/chen-icml-2021-/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/chen-icml-2021-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsharp Mask Guided Filtering</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-tip-2021/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-tip-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PointMixup: Augmentation for Point Clouds</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pointmixup/</link>
+      <pubDate>Sat, 22 Aug 2020 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pointmixup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,24 +14,3 @@
     
   </channel>
 </rss>
-/author/jie-liu/</link>
-    </image>
-    
-    <item>
-      <title>Dynamic Transformer for Few-shot Instance Segmentation</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/haochen-acmmm-2022/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/haochen-acmmm-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Prototype Convolution Network for Few-shot Semantic Segmentation</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/jieliu-cvpr-2022/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jieliu-cvpr-2022/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>

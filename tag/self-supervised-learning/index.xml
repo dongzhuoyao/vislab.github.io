@@ -5,12 +5,36 @@
     <link>https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-supervised learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Self-supervised learning</title>
       <link>https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/</link>
     </image>
+    
+    <item>
+      <title>Learning to Count without Annotations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-cvpr-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-cvpr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-3/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-MAE: Regions Meet Masked Autoencoders</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Ordering Point Clouds</title>
