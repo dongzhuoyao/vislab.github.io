@@ -5,12 +5,28 @@
     <link>https://ivi.fnwi.uva.nl/vislab/publication/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/</link>
     </image>
+    
+    <item>
+      <title>SIGMA: Sinkhorn-Guided Masked Video Modeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amortized Equation Discovery in Hybrid Dynamical Systems</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yongtuo-icml-2024/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yongtuo-icml-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Any-Shift Prompting for Generalization over Distributions</title>
@@ -69,6 +85,14 @@
     </item>
     
     <item>
+      <title>MetaKernel: Learning Variational Random Features with Limited Labels</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-pami-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-pami-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R-MAE: Regions Meet Masked Autoencoders</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
@@ -89,6 +113,30 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-2/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Matching for Conditional Text Generation in a Few Sampling Steps</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tao-eacl-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tao-eacl-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Space Editing in Transformer-Based Flow Matching</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tao-aaai-2024/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tao-aaai-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus for Free in Density-Based Counting</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2024/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2024/</guid>
       <description></description>
     </item>
     
