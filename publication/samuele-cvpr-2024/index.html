@@ -26,7 +26,7 @@
   
     
   
-  <meta name="description" content="Neural fields (NeFs) have recently emerged as a versatile method for modeling signals of various modalities, including images, shapes, and scenes. Subsequently, a number of works have explored the use of NeFs as representations for downstream tasks, e.g. classifying an image based on the parameters of a NeF that has been fit to it. However, the impact of the NeF hyperparameters on their quality as downstream representation is scarcely understood and remains largely unexplored. This is in part caused by the large amount of time required to fit datasets of neural fields. In this work, we propose a JAX-based library that leverages parallelization to enable fast optimization of large-scale NeF datasets, resulting in a significant speed-up. With this library, we perform a comprehensive study that investigates the effects of different hyperparameters on fitting NeFs for downstream tasks. In particular, we explore the use of a shared initialization, the effects of overtraining, and the expressiveness of the network architectures used. Our study provides valuable insights on how to train NeFs and offers guidance for optimizing their effectiveness in downstream applications. Finally, based on the proposed library and our analysis, we propose Neural Field Arena, a benchmark consisting of neural field variants of popular vision datasets, including MNIST, CIFAR, variants of ImageNet, and ShapeNetv2. Our library and the Neural Field Arena will be open-sourced to introduce standardized benchmarking and promote further research on neural fields.">
+  <meta name="description" content="We consider the problem of test-time domain generalization, where a model is trained on several source domains and adjusted on target domains never seen during training. Different from the common methods that fine-tune the model or adjust the classifier parameters online, we propose to generate multiple layer parameters on the fly during inference by a lightweight meta-learned transformer, which we call GeneralizeFormer. The layer-wise parameters are generated per target batch without fine-tuning or online adjustment. By doing so, our method is more effective in dynamic scenarios with multiple target distributions and also avoids forgetting valuable source distribution characteristics. Moreover, by considering layer-wise gradients, the proposed method adapts itself to various distribution shifts. To reduce the computational and time cost, we fix the convolutional parameters while only generating parameters of the Batch Normalization layers and the linear classifier. Experiments on six widely used domain generalization datasets demonstrate the benefits and abilities of the proposed method to efficiently handle various distribution shifts, generalize in dynamic scenarios, and avoid forgetting.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/">
@@ -256,14 +256,14 @@
   
   <meta property="og:site_name" content="VIS Lab">
   <meta property="og:url" content="https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/">
-  <meta property="og:title" content="How to Train Neural Field Representations: A Comprehensive Study and Benchmark | VIS Lab">
-  <meta property="og:description" content="Neural fields (NeFs) have recently emerged as a versatile method for modeling signals of various modalities, including images, shapes, and scenes. Subsequently, a number of works have explored the use of NeFs as representations for downstream tasks, e.g. classifying an image based on the parameters of a NeF that has been fit to it. However, the impact of the NeF hyperparameters on their quality as downstream representation is scarcely understood and remains largely unexplored. This is in part caused by the large amount of time required to fit datasets of neural fields. In this work, we propose a JAX-based library that leverages parallelization to enable fast optimization of large-scale NeF datasets, resulting in a significant speed-up. With this library, we perform a comprehensive study that investigates the effects of different hyperparameters on fitting NeFs for downstream tasks. In particular, we explore the use of a shared initialization, the effects of overtraining, and the expressiveness of the network architectures used. Our study provides valuable insights on how to train NeFs and offers guidance for optimizing their effectiveness in downstream applications. Finally, based on the proposed library and our analysis, we propose Neural Field Arena, a benchmark consisting of neural field variants of popular vision datasets, including MNIST, CIFAR, variants of ImageNet, and ShapeNetv2. Our library and the Neural Field Arena will be open-sourced to introduce standardized benchmarking and promote further research on neural fields."><meta property="og:image" content="https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/featured.png">
+  <meta property="og:title" content="GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts | VIS Lab">
+  <meta property="og:description" content="We consider the problem of test-time domain generalization, where a model is trained on several source domains and adjusted on target domains never seen during training. Different from the common methods that fine-tune the model or adjust the classifier parameters online, we propose to generate multiple layer parameters on the fly during inference by a lightweight meta-learned transformer, which we call GeneralizeFormer. The layer-wise parameters are generated per target batch without fine-tuning or online adjustment. By doing so, our method is more effective in dynamic scenarios with multiple target distributions and also avoids forgetting valuable source distribution characteristics. Moreover, by considering layer-wise gradients, the proposed method adapts itself to various distribution shifts. To reduce the computational and time cost, we fix the convolutional parameters while only generating parameters of the Batch Normalization layers and the linear classifier. Experiments on six widely used domain generalization datasets demonstrate the benefits and abilities of the proposed method to efficiently handle various distribution shifts, generalize in dynamic scenarios, and avoid forgetting."><meta property="og:image" content="https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/featured.png">
   <meta property="twitter:image" content="https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2024-06-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2025-02-26T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2024-06-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-02-26T00:00:00&#43;00:00">
   
 
   
@@ -287,18 +287,18 @@
     "@type": "WebPage",
     "@id": "https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/"
   },
-  "headline": "How to Train Neural Field Representations: A Comprehensive Study and Benchmark",
+  "headline": "GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts",
   
   "image": [
     "https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/featured.png"
   ],
   
-  "datePublished": "2024-06-01T00:00:00Z",
-  "dateModified": "2024-06-01T00:00:00Z",
+  "datePublished": "2025-02-26T00:00:00Z",
+  "dateModified": "2025-02-26T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Samuele Papa"
+    "name": "Sameer Ambekar"
   },
   
   "publisher": {
@@ -309,7 +309,7 @@
       "url": "https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Neural fields (NeFs) have recently emerged as a versatile method for modeling signals of various modalities, including images, shapes, and scenes. Subsequently, a number of works have explored the use of NeFs as representations for downstream tasks, e.g. classifying an image based on the parameters of a NeF that has been fit to it. However, the impact of the NeF hyperparameters on their quality as downstream representation is scarcely understood and remains largely unexplored. This is in part caused by the large amount of time required to fit datasets of neural fields. In this work, we propose a JAX-based library that leverages parallelization to enable fast optimization of large-scale NeF datasets, resulting in a significant speed-up. With this library, we perform a comprehensive study that investigates the effects of different hyperparameters on fitting NeFs for downstream tasks. In particular, we explore the use of a shared initialization, the effects of overtraining, and the expressiveness of the network architectures used. Our study provides valuable insights on how to train NeFs and offers guidance for optimizing their effectiveness in downstream applications. Finally, based on the proposed library and our analysis, we propose Neural Field Arena, a benchmark consisting of neural field variants of popular vision datasets, including MNIST, CIFAR, variants of ImageNet, and ShapeNetv2. Our library and the Neural Field Arena will be open-sourced to introduce standardized benchmarking and promote further research on neural fields."
+  "description": "We consider the problem of test-time domain generalization, where a model is trained on several source domains and adjusted on target domains never seen during training. Different from the common methods that fine-tune the model or adjust the classifier parameters online, we propose to generate multiple layer parameters on the fly during inference by a lightweight meta-learned transformer, which we call GeneralizeFormer. The layer-wise parameters are generated per target batch without fine-tuning or online adjustment. By doing so, our method is more effective in dynamic scenarios with multiple target distributions and also avoids forgetting valuable source distribution characteristics. Moreover, by considering layer-wise gradients, the proposed method adapts itself to various distribution shifts. To reduce the computational and time cost, we fix the convolutional parameters while only generating parameters of the Batch Normalization layers and the linear classifier. Experiments on six widely used domain generalization datasets demonstrate the benefits and abilities of the proposed method to efficiently handle various distribution shifts, generalize in dynamic scenarios, and avoid forgetting."
 }
 </script>
 
@@ -327,7 +327,7 @@
 
 
 
-  <title>How to Train Neural Field Representations: A Comprehensive Study and Benchmark | VIS Lab</title>
+  <title>GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts | VIS Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -547,7 +547,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>How to Train Neural Field Representations: A Comprehensive Study and Benchmark</h1>
+  <h1>GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts</h1>
 
   
 
@@ -564,7 +564,7 @@
     
 
   
-  <span >Samuele Papa</span>, <span >Riccardo Valperga</span>, <span >David Knigge</span>, <span >Miltiadis Kofinas</span>, <span >Phillip Lippe</span>, <span >Jan-Jakob Sonke</span>, <span >Efstratios Gavves</span>
+  <span >Sameer Ambekar</span>, <span >Zehao Xiao</span>, <span >Xiantong Zhen</span>, <span >Cees G. M. Snoek</span>
   </div>
   
   
@@ -575,7 +575,7 @@
     
       
     
-    June 2024
+    February 2025
   </span>
   
 
@@ -625,7 +625,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2312.10531" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.arxiv.org/abs/2502.12195" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -641,7 +641,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://fit-a-nef.github.io/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ambekarsameer96/%20generalizeformer" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -650,7 +650,23 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/1KQ6vZtNspHbZSFS6ngAaE7ynw-4Y1ky8/view?usp=sharing" target="_blank" rel="noopener">
+  Poster
+</a>
 
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/120-Bt5S9rQeJqzS5_vAOBd49S-0-UHMq/view?usp=sharing" target="_blank" rel="noopener">
+  Slides
+</a>
 
 
 
@@ -677,7 +693,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Neural fields (NeFs) have recently emerged as a versatile method for modeling signals of various modalities, including images, shapes, and scenes. Subsequently, a number of works have explored the use of NeFs as representations for downstream tasks, e.g. classifying an image based on the parameters of a NeF that has been fit to it. However, the impact of the NeF hyperparameters on their quality as downstream representation is scarcely understood and remains largely unexplored. This is in part caused by the large amount of time required to fit datasets of neural fields. In this work, we propose a JAX-based library that leverages parallelization to enable fast optimization of large-scale NeF datasets, resulting in a significant speed-up. With this library, we perform a comprehensive study that investigates the effects of different hyperparameters on fitting NeFs for downstream tasks. In particular, we explore the use of a shared initialization, the effects of overtraining, and the expressiveness of the network architectures used. Our study provides valuable insights on how to train NeFs and offers guidance for optimizing their effectiveness in downstream applications. Finally, based on the proposed library and our analysis, we propose Neural Field Arena, a benchmark consisting of neural field variants of popular vision datasets, including MNIST, CIFAR, variants of ImageNet, and ShapeNetv2. Our library and the Neural Field Arena will be open-sourced to introduce standardized benchmarking and promote further research on neural fields.</p>
+    <p class="pub-abstract">We consider the problem of test-time domain generalization, where a model is trained on several source domains and adjusted on target domains never seen during training. Different from the common methods that fine-tune the model or adjust the classifier parameters online, we propose to generate multiple layer parameters on the fly during inference by a lightweight meta-learned transformer, which we call GeneralizeFormer. The layer-wise parameters are generated per target batch without fine-tuning or online adjustment. By doing so, our method is more effective in dynamic scenarios with multiple target distributions and also avoids forgetting valuable source distribution characteristics. Moreover, by considering layer-wise gradients, the proposed method adapts itself to various distribution shifts. To reduce the computational and time cost, we fix the convolutional parameters while only generating parameters of the Batch Normalization layers and the linear classifier. Experiments on six widely used domain generalization datasets demonstrate the benefits and abilities of the proposed method to efficiently handle various distribution shifts, generalize in dynamic scenarios, and avoid forgetting.</p>
     
 
     
@@ -707,7 +723,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">CVPR 2024</div>
+          <div class="col-12 col-md-9">WACV 2025</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -728,7 +744,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/vislab/tag/3d-computer-vision/">3D computer vision</a>
+  <a class="badge badge-light" href="/vislab/tag/transfer-low-shot-semi-and-un-supervised-learning/">Transfer, low-shot, semi- and un-supervised learning</a>
   
 </div>
 
@@ -745,7 +761,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;text=How%20to%20Train%20Neural%20Field%20Representations:%20A%20Comprehensive%20Study%20and%20Benchmark" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;text=GeneralizeFormer:%20Layer-Adaptive%20Model%20Generation%20across%20Test-Time%20Distribution%20Shifts" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -758,7 +774,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;t=How%20to%20Train%20Neural%20Field%20Representations:%20A%20Comprehensive%20Study%20and%20Benchmark" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;t=GeneralizeFormer:%20Layer-Adaptive%20Model%20Generation%20across%20Test-Time%20Distribution%20Shifts" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -771,7 +787,7 @@
       
       
       <li>
-        <a href="mailto:?subject=How%20to%20Train%20Neural%20Field%20Representations:%20A%20Comprehensive%20Study%20and%20Benchmark&amp;body=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=GeneralizeFormer:%20Layer-Adaptive%20Model%20Generation%20across%20Test-Time%20Distribution%20Shifts&amp;body=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -784,7 +800,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;title=How%20to%20Train%20Neural%20Field%20Representations:%20A%20Comprehensive%20Study%20and%20Benchmark" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;title=GeneralizeFormer:%20Layer-Adaptive%20Model%20Generation%20across%20Test-Time%20Distribution%20Shifts" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -797,7 +813,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=How%20to%20Train%20Neural%20Field%20Representations:%20A%20Comprehensive%20Study%20and%20Benchmark%20https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=GeneralizeFormer:%20Layer-Adaptive%20Model%20Generation%20across%20Test-Time%20Distribution%20Shifts%20https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -810,7 +826,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;title=How%20to%20Train%20Neural%20Field%20Representations:%20A%20Comprehensive%20Study%20and%20Benchmark" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ivi.fnwi.uva.nl/vislab/publication/samuele-cvpr-2024/&amp;title=GeneralizeFormer:%20Layer-Adaptive%20Model%20Generation%20across%20Test-Time%20Distribution%20Shifts" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -827,39 +843,6 @@
 
 
 
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
-
-
-  
-    
-    
-
-
-
-
-
-  
 
 
   
@@ -925,15 +908,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/vislab/publication/yunlu-eccv-2022/">3D Equivariant Graph Implicit Functions</a></li>
+      <li><a href="/vislab/publication/zehao-collas-2024/">Probabilistic Test-Time Generalization by Variational Neighbor-Labeling</a></li>
       
-      <li><a href="/vislab/publication/chen-icml-2021-/">Neural Feature Matching in Implicit 3D Representations</a></li>
+      <li><a href="/vislab/publication/shen-neurips-2022/">Association Graph Learning for Multi-Task Classification with Category Shifts</a></li>
       
-      <li><a href="/vislab/publication/shuo-bmvc2-2021/">MVT: Multi-view Vision Transformer for 3D Object Recognition</a></li>
+      <li><a href="/vislab/publication/jing-neurips-2022/">Variational Model Perturbation for Source-Free Domain Adaptation</a></li>
       
-      <li><a href="/vislab/publication/mettes-3dv-2020/">Adversarial Self-Supervised Scene Flow Estimation</a></li>
+      <li><a href="/vislab/publication/yingjun-iclr-2022/">Hierarchical Variational Memory for Few-shot Learning Across Domains</a></li>
       
-      <li><a href="/vislab/publication/yongtuo-icml-2024/">Amortized Equation Discovery in Hybrid Dynamical Systems</a></li>
+      <li><a href="/vislab/publication/jing-iccv-2023/">Order-preserving Consistency Regularization for Domain Adaptation and Generalization</a></li>
       
     </ul>
   </div>

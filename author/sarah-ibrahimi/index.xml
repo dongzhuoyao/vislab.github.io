@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Ibrahimi | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/sarah-ibrahimi/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/sarah-ibrahimi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Ibrahimi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sarah Ibrahimi</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/sarah-ibrahimi/</link>
+    </image>
+    
+    <item>
+      <title>Intriguing Properties of Hyperbolic Embeddings in Vision-Language Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-tmlr-2-2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-tmlr-2-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
