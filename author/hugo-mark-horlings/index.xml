@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Mark Horlings | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/hugo-mark-horlings/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/hugo-mark-horlings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Mark Horlings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hugo Mark Horlings</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/hugo-mark-horlings/</link>
+    </image>
+    
+    <item>
+      <title>HRD-related morphology discovery in breast cancer by controlling for confounding factors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/y.schirris-crm-2022-/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/y.schirris-crm-2022-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeakSTIL: weak whole-slide image level stromal tumor infiltrating lymphocyte scores are all you need</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/y.schirris-mi-2022-/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/y.schirris-mi-2022-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WeakSTIL: Weak whole-slide image level stromal tumor infiltrating lymphocyte scores are all you need</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yoni-spie_mi-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yoni-spie_mi-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cees G. M. Snoek | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cees G. M. Snoek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Cees G. M. Snoek</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</link>
+    </image>
+    
+    <item>
+      <title>An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/christina-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/christina-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TULIP: Token-length Upgraded CLIP</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Union-over-Intersections: Object Detection beyond Winner-Takes-All</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPO: Interpretable Prompt Optimization for Vision-Language Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2024/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMA: Sinkhorn-Guided Masked Video Modeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Test-Time Generalization by Variational Neighbor-Labeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-collas-2024/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-collas-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Any-Shift Prompting for Generalization over Distributions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-cvpr-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-cvpr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/michael-cvpr-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/michael-cvpr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks for Learning Equivariant Representations of Neural Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/miltiadis-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-MAE: Regions Meet Masked Autoencoders</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus for Free in Density-Based Counting</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2024/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Prompt Learning for Image-Language Model Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Objects with Context-Likelihood Graphs and Graph Refinement</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Ordering Point Clouds</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Meta Weighting for Long-Tailed Dynamic Scene Graph Generation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking Slot Attention by Changing Optimal Transport Costs</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/david-icml-2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-icml-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Guided Diffusion Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tao-cvpr-2023/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tao-cvpr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Based Test Sample Adaptation for Domain Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake It Till You Make It: Towards Accurate Near-Distribution Novelty Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mirzaei-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mirzaei-iclr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Graph Learning for Multi-Task Classification with Category Shifts</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/shen-neurips-2022/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/shen-neurips-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Model Perturbation for Source-Free Domain Adaptation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jing-neurips-2022/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jing-neurips-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less than Few: Self-Shot Video Instance Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hazel-cvpr-2022-/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hazel-cvpr-2022-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Variational Memory for Few-shot Learning Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalize across Domains on Single Test Samples</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiset-Equivariant Set Prediction with Approximate Implicit Differentiation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/david-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Measuring and Controlling the Spectral Bias of the Deep Image Prior</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bit More Bayesian: Domain-Invariant Learning with Uncertainty</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Continual Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-icml-2021/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-icml-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Transformation of Common Actions into Time and Space</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-cvpr-2021/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-cvpr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaNorm: Learning to Normalize Few-Shot Batches Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn Variational Semantic Memory</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhen-neurips-2020-/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhen-neurips-2020-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn with Variational Information Bottleneck for Domain Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/du-eccv-2020/</link>
+      <pubDate>Sun, 20 Sep 2020 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/du-eccv-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/narayan-eccv-2020/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/narayan-eccv-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixelated Semantic Colorization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhao-ijcv-2020/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhao-ijcv-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localizing the Common Action Among a Few Videos</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/focal/</link>
+      <pubDate>Sat, 22 Aug 2020 17:44:27 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/focal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PointMixup: Augmentation for Point Clouds</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pointmixup/</link>
+      <pubDate>Sat, 22 Aug 2020 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pointmixup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Visual Features from Text for Image and Video Caption Retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/dong-tmm-2018/</link>
+      <pubDate>Thu, 20 Sep 2018 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/dong-tmm-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recognition | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/tag/recognition/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/tag/recognition/</link>
+    </image>
+    
+    <item>
+      <title>LiftPool: Bidirectional ConvNet Pooling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jiaojiaozhao-iclr-2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jiaojiaozhao-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasibinary Classifier for Images with Zero and Multiple Labels</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/liao-icpr-2020/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/liao-icpr-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

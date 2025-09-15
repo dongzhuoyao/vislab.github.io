@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cees G M Snoek | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cees G M Snoek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Cees G M Snoek</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</link>
+    </image>
+    
+    <item>
+      <title>SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sarah-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sarah-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Matching for Conditional Text Generation in a Few Sampling Steps</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tao-eacl-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tao-eacl-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Space Editing in Transformer-Based Flow Matching</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tao-aaai-2024/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tao-aaai-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sarah-neurips-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sarah-neurips-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversely-Supervised Visual Product Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/william-tomm-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/william-tomm-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LifeLonger: A Benchmark for Continual Disease Classification</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-miccai-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-miccai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning Edges and Gradients to Learn Hypergraphs from Larger Sets</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/david-log-2022-/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-log-2022-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Fakes: Evaluating Face Anonymizers for Face Detectors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sander-icafgr-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sander-icafgr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature and Label Embedding Spaces Matter in Addressing Image Classifier Bias</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/william-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/william-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion-Augmented Self-Training for Video Recognition at Smaller Scale</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/kirill-iccv-2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/kirill-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. G. M. Snoek | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/c.-g.-m.-snoek/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/c.-g.-m.-snoek/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. G. M. Snoek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>C. G. M. Snoek</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/c.-g.-m.-snoek/</link>
+    </image>
+    
+    <item>
+      <title>Open Cross-Domain Visual Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/thong-cviu-2020/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/thong-cviu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias-Awareness for Zero-Shot Learning the Seen and Unseen</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/thong-bmvc-2020/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/thong-bmvc-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuffled ImageNet-Banks for Video Event Detection and Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-tomm-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-tomm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ActionBytes: Learning from Trimmed Videos to Localize Actions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jain-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jain-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actor-Transformers for Group Activity Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloth in the Wind: A Case Study of Physical Measurement through Simulation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guess Where? Actor-Supervision for Spatiotemporal Video Action Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/escorcia-cviu-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/escorcia-cviu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Actions on the Hyperbole</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/long-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/long-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention-based Multi-Context Guiding for Few-Shot Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hu-aaai-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hu-aaai-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counting with Focus for Free</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/shi-iccv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/shi-iccv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dance with Flow: Two-in-One Stream Action Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhao-cvpr-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhao-cvpr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspherical Prototype Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-nips-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-nips-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Modality: Emoji Challenges in Prediction, Anticipation, and Retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/cappallo-tmm-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/cappallo-tmm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointly-Supervised Action Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-ijcv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-ijcv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repetition Estimation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-ijcv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-ijcv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SILCO: Show a Few Images, Localize the Common Object</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hu-iccv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hu-iccv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/liao-cvpr-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/liao-cvpr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actor and Action Video Segmentation From a Sentence</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheat me not: automated proctoring of digital exams on Bring-Your-Own-Device</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/migut-itcse-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/migut-itcse-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-World Repetition Estimation by Div, Grad and Curl</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching and Matching Texture-free 3D Shapes in Images</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/liao-icmr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/liao-icmr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Time: Properties, Encoders and Evaluation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ghodrati-bmvc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ghodrati-bmvc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VideoLSTM Convolves, Attends and Flows for Action Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/li-cviu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/li-cviu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

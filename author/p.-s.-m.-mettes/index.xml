@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. S. M. Mettes | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/p.-s.-m.-mettes/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/p.-s.-m.-mettes/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. S. M. Mettes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>P. S. M. Mettes</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/p.-s.-m.-mettes/</link>
+    </image>
+    
+    <item>
+      <title>Shuffled ImageNet-Banks for Video Event Detection and Search</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-tomm-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-tomm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Actions on the Hyperbole</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/long-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/long-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counting with Focus for Free</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/shi-iccv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/shi-iccv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspherical Prototype Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-nips-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-nips-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Exploration of Journalistic Video Footage through Multimodal Semantic Matching</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ibrahimi-icm-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ibrahimi-icm-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointly-Supervised Action Localization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mettes-ijcv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mettes-ijcv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SILCO: Show a Few Images, Localize the Common Object</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hu-iccv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hu-iccv-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

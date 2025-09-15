@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recognition (object detection, categorization) | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recognition (object detection, categorization)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recognition (object detection, categorization)</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/</link>
+    </image>
+    
+    <item>
+      <title>Enhancement of early proximal caries annotations in radiographs: introducing the Diagnostic Insights for Radiographic Early-caries with micro-CT (ACTA-DIRECT) dataset</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-bmc-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-bmc-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperbolic Random Forests</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-tmlr-2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-tmlr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus for Free in Density-Based Counting</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2024/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zenglin-ijcv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite Class Mixup</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-bmvc-2023/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-bmvc-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Objects with Context-Likelihood Graphs and Graph Refinement</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Meta Weighting for Long-Tailed Dynamic Scene Graph Generation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-cvpr-2023/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-cvpr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake It Till You Make It: Towards Accurate Near-Distribution Novelty Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mirzaei-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mirzaei-iclr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperbolic Graph Codebooks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-icml-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-icml-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoxeR: Box-Attention for 2D and 3D Transformers</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Object Interaction Detection via Weak Supervision</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mert-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mert-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar Learning for Click-Level Weakly Supervised Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hongjun-iccv-2021-/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hongjun-iccv-2021-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-Shot Learning With Exclusive Cross-Entropy for Extremely Many Localisations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/andreas-iccv-2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/andreas-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Attention Networks for Skeleton-Based Action Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ce-tnnls-2021/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ce-tnnls-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hateful Memes Challenge: Competition Report</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/phillip-pmlr-2021/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/phillip-pmlr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bit More Bayesian: Domain-Invariant Learning with Uncertainty</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/xiao-icml-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

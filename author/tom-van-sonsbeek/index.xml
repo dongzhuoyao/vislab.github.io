@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom van Sonsbeek | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/tom-van-sonsbeek/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/tom-van-sonsbeek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom van Sonsbeek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Tom van Sonsbeek</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/tom-van-sonsbeek/</link>
+    </image>
+    
+    <item>
+      <title>LifeLonger: A Benchmark for Continual Disease Classification</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-miccai-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-miccai-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

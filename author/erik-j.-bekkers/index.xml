@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erik J. Bekkers | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/erik-j.-bekkers/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/erik-j.-bekkers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erik J. Bekkers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Erik J. Bekkers</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/erik-j.-bekkers/</link>
+    </image>
+    
+    <item>
+      <title>Space-time continuous pde forecasting using equivariant neural fields</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/d.m.knigge-neurips-2024/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/d.m.knigge-neurips-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Redundancy: Separable Group Convolutional Networks on Lie Groups</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/david-icml-2022/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/david-icml-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan Sosnovik | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/ivan-sosnovik/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/ivan-sosnovik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivan Sosnovik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ivan Sosnovik</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/ivan-sosnovik/</link>
+    </image>
+    
+    <item>
+      <title>LieGG: Studying Learned Lie Group Generators</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/moskalev-neurips-2022/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/moskalev-neurips-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting quadratic assignments for set-based representation learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/artem-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/artem-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DISCO: accurate Discrete Scale Convolutions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/ivan-bmvc-2021/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/ivan-bmvc-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale Equivariance Improves Siamese Tracking</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/moskalev-wacv-2021/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/moskalev-wacv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-Equivariant Steerable Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sosnovik-iclr-2020/</link>
+      <pubDate>Thu, 24 Sep 2020 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sosnovik-iclr-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

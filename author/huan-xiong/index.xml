@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huan Xiong | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/huan-xiong/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/huan-xiong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huan Xiong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Huan Xiong</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/huan-xiong/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Prototype Convolution Network for Few-shot Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jieliu-cvpr-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jieliu-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn Variational Semantic Memory</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhen-neurips-2020-/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhen-neurips-2020-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn with Variational Information Bottleneck for Domain Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/du-eccv-2020/</link>
+      <pubDate>Sun, 20 Sep 2020 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/du-eccv-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

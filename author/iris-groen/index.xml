@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris Groen | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/iris-groen/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/iris-groen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iris Groen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Iris Groen</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/iris-groen/</link>
+    </image>
+    
+    <item>
+      <title>Visual Perception in the Human Brain: How the Brain Perceives and Understands Real-World Scenes</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/iris-neuroscience-2023/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/iris-neuroscience-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise Spatial Tuning of Visually Driven Alpha Oscillations in Human Visual Cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/iris-elife-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/iris-elife-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visuospatial coding as ubiquitous scaffolding for human cognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/iris-tcs-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/iris-tcs-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct comparison of category and spatial selectivity in human occipitotemporal cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/edward-bsf-2021/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/edward-bsf-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the temporal dynamics of neural responses in human visual cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/groen-jov-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/groen-jov-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

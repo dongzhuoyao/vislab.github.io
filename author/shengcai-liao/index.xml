@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shengcai Liao | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/shengcai-liao/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/shengcai-liao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shengcai Liao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shengcai Liao</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/shengcai-liao/</link>
+    </image>
+    
+    <item>
+      <title>Any-Shift Prompting for Generalization over Distributions</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-cvpr-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-cvpr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Based Test Sample Adaptation for Domain Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-iclr-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

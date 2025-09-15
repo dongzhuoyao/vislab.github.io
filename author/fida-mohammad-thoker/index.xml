@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fida Mohammad Thoker | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/fida-mohammad-thoker/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/fida-mohammad-thoker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fida Mohammad Thoker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Fida Mohammad Thoker</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/fida-mohammad-thoker/</link>
+    </image>
+    
+    <item>
+      <title>SIGMA: Sinkhorn-Guided Masked Video Modeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skeleton-Contrastive 3D Action Representation Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-acmmm-2021/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-acmmm-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

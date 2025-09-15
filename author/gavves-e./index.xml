@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gavves E. | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/gavves-e./</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/gavves-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Gavves E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Gavves E.</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/gavves-e./</link>
+    </image>
+    
+    <item>
+      <title>Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/liao-cvpr-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/liao-cvpr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching and Matching Texture-free 3D Shapes in Images</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/liao-icmr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/liao-icmr-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

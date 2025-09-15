@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-supervised learning | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Self-supervised learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Self-supervised learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/</link>
+    </image>
+    
+    <item>
+      <title>Near, far: Patch-ordering enhances vision foundation models&#39; scene understanding</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Scaling Backwards: Minimal Synthetic Pretraining?</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object-Centric Diffusion for Efficient Video Editing</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-eccv-2024-2/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-eccv-2024-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sarah-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sarah-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMA: Sinkhorn-Guided Masked Video Modeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amortized Equation Discovery in Hybrid Dynamical Systems</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yongtuo-icml-2024/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yongtuo-icml-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Count without Annotations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-cvpr-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-cvpr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-3/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-MAE: Regions Meet Masked Autoencoders</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Ordering Point Clouds</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pengwan-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Guided Diffusion Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tao-cvpr-2023/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tao-cvpr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Augmented Image Prior: Distilling 1000 Classes by Extrapolating from Single Image</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting quadratic assignments for set-based representation learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/artem-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/artem-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning?</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/fida-eccv-2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/fida-eccv-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Learning of Object Parts for Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/adrian-cvpr-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/adrian-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASS: An ImageNet replacement for self-supervised pretraining without humans</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-ds-2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-ds-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-Time Crop &amp; Attend: Improving Cross-modal Video Representation Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021-2/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Compositions of Transformations in Contrastive Self-Supervised Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mandela-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

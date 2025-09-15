@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sameer Ambekar | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/sameer-ambekar/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/sameer-ambekar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sameer Ambekar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sameer Ambekar</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/sameer-ambekar/</link>
+    </image>
+    
+    <item>
+      <title>GeneralizeFormer: Layer-Adaptive Model Generation across Test-Time Distribution Shifts</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Test-Time Generalization by Variational Neighbor-Labeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zehao-collas-2024/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zehao-collas-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

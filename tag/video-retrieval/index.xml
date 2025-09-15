@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video retrieval | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/tag/video-retrieval/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/tag/video-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    <description>video retrieval</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>video retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/tag/video-retrieval/</link>
+    </image>
+    
+    <item>
+      <title>Searching for Actions on the Hyperbole</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/long-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/long-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Visual Features from Text for Image and Video Caption Retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/dong-tmm-2018/</link>
+      <pubDate>Thu, 20 Sep 2018 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/dong-tmm-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

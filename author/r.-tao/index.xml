@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Tao | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/r.-tao/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/r.-tao/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Tao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>R. Tao</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/r.-tao/</link>
+    </image>
+    
+    <item>
+      <title>Estimating small differences in car-pose from orbits</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/kicanaoglu-bmvc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/kicanaoglu-bmvc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Tracking in the Wild: A Benchmark</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/valmadre-eccv-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/valmadre-eccv-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

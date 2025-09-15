@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Gavrilyuk | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/k.-gavrilyuk/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/k.-gavrilyuk/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Gavrilyuk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>K. Gavrilyuk</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/k.-gavrilyuk/</link>
+    </image>
+    
+    <item>
+      <title>Actor-Transformers for Group Activity Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloth in the Wind: A Case Study of Physical Measurement through Simulation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actor and Action Video Segmentation From a Sentence</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/gavrilyuk-cvpr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VideoLSTM Convolves, Attends and Flows for Action Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/li-cviu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/li-cviu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

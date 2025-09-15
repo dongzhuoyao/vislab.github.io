@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duy-Kien Nguyen | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/duy-kien-nguyen/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/duy-kien-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duy-Kien Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Duy-Kien Nguyen</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/duy-kien-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-MAE: Regions Meet Masked Autoencoders</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoxeR: Box-Attention for 2D and 3D Transformers</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MoVie: Revisiting Modulated Convolutions for Visual Counting and Beyond</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

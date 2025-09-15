@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin R. Oswald | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/martin-r.-oswald/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/martin-r.-oswald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin R. Oswald</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Martin R. Oswald</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/martin-r.-oswald/</link>
+    </image>
+    
+    <item>
+      <title>An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Union-over-Intersections: Object Detection beyond Winner-Takes-All</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-MAE: Regions Meet Masked Autoencoders</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Objects with Context-Likelihood Graphs and Graph Refinement</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoxeR: Box-Attention for 2D and 3D Transformers</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-cvpr-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

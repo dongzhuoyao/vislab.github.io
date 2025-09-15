@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dima Damen | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/dima-damen/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/dima-damen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dima Damen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dima Damen</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/dima-damen/</link>
+    </image>
+    
+    <item>
+      <title>Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/dima-ijcv-2021/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/dima-ijcv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Semantic Similarity in Video Retrieval</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hazeldoughty-cvpr-2021/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hazeldoughty-cvpr-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

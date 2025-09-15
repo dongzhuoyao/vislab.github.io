@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. W. M. Smeulders | VIS Lab</title>
+    <link>https://ivi.fnwi.uva.nl/vislab/author/a.-w.-m.-smeulders/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/a.-w.-m.-smeulders/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. W. M. Smeulders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>A. W. M. Smeulders</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/author/a.-w.-m.-smeulders/</link>
+    </image>
+    
+    <item>
+      <title>Cloth in the Wind: A Case Study of Physical Measurement through Simulation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repetition Estimation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-ijcv-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-ijcv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timeception for Complex Action Recognition</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/hussein-cvpr-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/hussein-cvpr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating small differences in car-pose from orbits</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/kicanaoglu-bmvc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/kicanaoglu-bmvc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i-RevNet: Deep Invertible Networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jacobsen-iclr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jacobsen-iclr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Tracking in the Wild: A Benchmark</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/valmadre-eccv-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/valmadre-eccv-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-World Repetition Estimation by Div, Grad and Curl</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/runia-cvpr-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
