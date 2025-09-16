@@ -5,12 +5,132 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/yingjun-du/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/yingjun-du/index.xml" rel="self" type="application/rss+xml" />
     <description>Yingjun Du</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yingjun Du</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/yingjun-du/</link>
     </image>
+    
+    <item>
+      <title>IPO: Interpretable Prompt Optimization for Vision-Language Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2024/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaKernel: Learning Variational Random Features with Limited Labels</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-pami-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-pami-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2023/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Meta Weighting for Long-Tailed Dynamic Scene Graph Generation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icmr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMO: Episodic Memory Optimization for Few-Shot Meta-Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-collas-2023/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-collas-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning with Fewer Tasks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icml-2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icml-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-cvpr-2023/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-cvpr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Variational Memory for Few-shot Learning Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-iclr-2022/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-iclr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Abnormal Behavior Detection with Motion Consistency</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/jing-tip-2021/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/jing-tip-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Adapt with Memory for Probabilistic Few-Shot Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/lei-itcsvt-2021/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/lei-itcsvt-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-acl-2021/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-acl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaNorm: Learning to Normalize Few-Shot Batches Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjundu-iclr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn Variational Semantic Memory</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhen-neurips-2020-/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhen-neurips-2020-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn with Variational Information Bottleneck for Domain Generalization</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/du-eccv-2020/</link>
+      <pubDate>Sun, 20 Sep 2020 17:38:59 +0200</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/du-eccv-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn Kernels with Variational Random Features</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/zhen-icml-2020-/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/zhen-icml-2020-/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
