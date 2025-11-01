@@ -5,12 +5,84 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammadreza Salehi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammadreza Salehi</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/</link>
     </image>
+    
+    <item>
+      <title>Near, far: Patch-ordering enhances vision foundation models&#39; scene understanding</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iclr-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/sarah-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/sarah-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMA: Sinkhorn-Guided Masked Video Modeling</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Does Tell: Self-Supervised Time-Tuning of Dense Image Representations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake It Till You Make It: Towards Accurate Near-Distribution Novelty Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mirzaei-iclr-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mirzaei-iclr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/s.salehidehnavi-tmlr-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arae: Adversarially robust training of autoencoders improves novelty detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-mm-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-mm-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiresolution Knowledge Distillation for Anomaly Detection</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-cvpr-2021/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-cvpr-2021/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
