@@ -5,12 +5,20 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/mohammad-mahdi-derakhshani/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/mohammad-mahdi-derakhshani/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Mahdi Derakhshani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mohammad Mahdi Derakhshani</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/mohammad-mahdi-derakhshani/</link>
     </image>
+    
+    <item>
+      <title>TWIST &amp; SCOUT: Grounding Multimodal LLM-Experts by Forget-Free Tuning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TULIP: Token-length Upgraded CLIP</title>
