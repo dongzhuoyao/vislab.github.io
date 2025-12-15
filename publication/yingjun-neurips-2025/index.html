@@ -26,7 +26,7 @@
   
     
   
-  <meta name="description" content="Pre-trained vision-language models like CLIP have remarkably adapted to various downstream tasks. Nonetheless, their performance heavily depends on the specificity of the input text prompts, which requires skillful prompt template engineering. Instead, current approaches to prompt optimization learn the prompts through gradient descent, where the prompts are treated as adjustable parameters. However, these methods tend to lead to overfitting of the base classes seen during training and produce prompts that are no longer understandable by humans. This paper introduces a simple but interpretable prompt optimizer (IPO), that utilizes large language models (LLMs) to generate textual prompts dynamically. We introduce a Prompt Optimization Prompt that not only guides LLMs in creating effective prompts but also stores past prompts with their performance metrics, providing rich in-context information. Additionally, we incorporate a large multimodal model (LMM) to condition on visual content by generating image descriptions, which enhance the interaction between textual and visual modalities. This allows for the creation of dataset-specific prompts that improve generalization performance, while maintaining human comprehension. Extensive testing across 11 datasets reveals that IPO not only improves the accuracy of existing gradient-descent-based prompt learning methods but also considerably enhances the interpretability of the generated prompts. By leveraging the strengths of LLMs, our approach ensures that the prompts remain human-understandable, thereby facilitating better transparency and oversight for vision-language models.">
+  <meta name="description" content="Task vectors capture how a model changes during fine-tuning by recording the difference between pre-trained and task-specific weights. The composition of task vectors, a key operator in task arithmetic, enables models to integrate knowledge from multiple tasks without incurring additional inference costs. In this paper, we propose variational task vector composition, where composition coefficients are taken as latent variables and estimated in a Bayesian inference framework. Unlike previous methods that operate at the task level, our framework focuses on sample-specific composition. Motivated by the observation of structural redundancy in task vectors, we introduce a Spike-and-Slab prior that promotes sparsity and preserves only the most informative components. To further address the high variance and sampling inefficiency in sparse, high-dimensional spaces, we develop a gated sampling mechanism that constructs a controllable posterior by filtering the composition coefficients based on both uncertainty and importance. This yields a more stable and interpretable variational framework by deterministically selecting reliable task components, reducing sampling variance while improving transparency and generalization. Experimental results demonstrate that our method consistently outperforms existing approaches across all datasets by selectively leveraging the most reliable and informative components in task vectors. These findings highlight the practical value of our approach, establishing a new standard for efficient and effective task vector composition.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/">
@@ -256,14 +256,14 @@
   
   <meta property="og:site_name" content="VIS Lab">
   <meta property="og:url" content="https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/">
-  <meta property="og:title" content="IPO: Interpretable Prompt Optimization for Vision-Language Models | VIS Lab">
-  <meta property="og:description" content="Pre-trained vision-language models like CLIP have remarkably adapted to various downstream tasks. Nonetheless, their performance heavily depends on the specificity of the input text prompts, which requires skillful prompt template engineering. Instead, current approaches to prompt optimization learn the prompts through gradient descent, where the prompts are treated as adjustable parameters. However, these methods tend to lead to overfitting of the base classes seen during training and produce prompts that are no longer understandable by humans. This paper introduces a simple but interpretable prompt optimizer (IPO), that utilizes large language models (LLMs) to generate textual prompts dynamically. We introduce a Prompt Optimization Prompt that not only guides LLMs in creating effective prompts but also stores past prompts with their performance metrics, providing rich in-context information. Additionally, we incorporate a large multimodal model (LMM) to condition on visual content by generating image descriptions, which enhance the interaction between textual and visual modalities. This allows for the creation of dataset-specific prompts that improve generalization performance, while maintaining human comprehension. Extensive testing across 11 datasets reveals that IPO not only improves the accuracy of existing gradient-descent-based prompt learning methods but also considerably enhances the interpretability of the generated prompts. By leveraging the strengths of LLMs, our approach ensures that the prompts remain human-understandable, thereby facilitating better transparency and oversight for vision-language models."><meta property="og:image" content="https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/featured.png">
+  <meta property="og:title" content="Variational Task Vector Composition | VIS Lab">
+  <meta property="og:description" content="Task vectors capture how a model changes during fine-tuning by recording the difference between pre-trained and task-specific weights. The composition of task vectors, a key operator in task arithmetic, enables models to integrate knowledge from multiple tasks without incurring additional inference costs. In this paper, we propose variational task vector composition, where composition coefficients are taken as latent variables and estimated in a Bayesian inference framework. Unlike previous methods that operate at the task level, our framework focuses on sample-specific composition. Motivated by the observation of structural redundancy in task vectors, we introduce a Spike-and-Slab prior that promotes sparsity and preserves only the most informative components. To further address the high variance and sampling inefficiency in sparse, high-dimensional spaces, we develop a gated sampling mechanism that constructs a controllable posterior by filtering the composition coefficients based on both uncertainty and importance. This yields a more stable and interpretable variational framework by deterministically selecting reliable task components, reducing sampling variance while improving transparency and generalization. Experimental results demonstrate that our method consistently outperforms existing approaches across all datasets by selectively leveraging the most reliable and informative components in task vectors. These findings highlight the practical value of our approach, establishing a new standard for efficient and effective task vector composition."><meta property="og:image" content="https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/featured.png">
   <meta property="twitter:image" content="https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2024-12-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2025-12-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2024-12-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-12-01T00:00:00&#43;00:00">
   
 
   
@@ -287,18 +287,18 @@
     "@type": "WebPage",
     "@id": "https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/"
   },
-  "headline": "IPO: Interpretable Prompt Optimization for Vision-Language Models",
+  "headline": "Variational Task Vector Composition",
   
   "image": [
     "https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/featured.png"
   ],
   
-  "datePublished": "2024-12-01T00:00:00Z",
-  "dateModified": "2024-12-01T00:00:00Z",
+  "datePublished": "2025-12-01T00:00:00Z",
+  "dateModified": "2025-12-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Yingjun Du"
+    "name": "Boyuan Zhang"
   },
   
   "publisher": {
@@ -309,7 +309,7 @@
       "url": "https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Pre-trained vision-language models like CLIP have remarkably adapted to various downstream tasks. Nonetheless, their performance heavily depends on the specificity of the input text prompts, which requires skillful prompt template engineering. Instead, current approaches to prompt optimization learn the prompts through gradient descent, where the prompts are treated as adjustable parameters. However, these methods tend to lead to overfitting of the base classes seen during training and produce prompts that are no longer understandable by humans. This paper introduces a simple but interpretable prompt optimizer (IPO), that utilizes large language models (LLMs) to generate textual prompts dynamically. We introduce a Prompt Optimization Prompt that not only guides LLMs in creating effective prompts but also stores past prompts with their performance metrics, providing rich in-context information. Additionally, we incorporate a large multimodal model (LMM) to condition on visual content by generating image descriptions, which enhance the interaction between textual and visual modalities. This allows for the creation of dataset-specific prompts that improve generalization performance, while maintaining human comprehension. Extensive testing across 11 datasets reveals that IPO not only improves the accuracy of existing gradient-descent-based prompt learning methods but also considerably enhances the interpretability of the generated prompts. By leveraging the strengths of LLMs, our approach ensures that the prompts remain human-understandable, thereby facilitating better transparency and oversight for vision-language models."
+  "description": "Task vectors capture how a model changes during fine-tuning by recording the difference between pre-trained and task-specific weights. The composition of task vectors, a key operator in task arithmetic, enables models to integrate knowledge from multiple tasks without incurring additional inference costs. In this paper, we propose variational task vector composition, where composition coefficients are taken as latent variables and estimated in a Bayesian inference framework. Unlike previous methods that operate at the task level, our framework focuses on sample-specific composition. Motivated by the observation of structural redundancy in task vectors, we introduce a Spike-and-Slab prior that promotes sparsity and preserves only the most informative components. To further address the high variance and sampling inefficiency in sparse, high-dimensional spaces, we develop a gated sampling mechanism that constructs a controllable posterior by filtering the composition coefficients based on both uncertainty and importance. This yields a more stable and interpretable variational framework by deterministically selecting reliable task components, reducing sampling variance while improving transparency and generalization. Experimental results demonstrate that our method consistently outperforms existing approaches across all datasets by selectively leveraging the most reliable and informative components in task vectors. These findings highlight the practical value of our approach, establishing a new standard for efficient and effective task vector composition."
 }
 </script>
 
@@ -327,7 +327,7 @@
 
 
 
-  <title>IPO: Interpretable Prompt Optimization for Vision-Language Models | VIS Lab</title>
+  <title>Variational Task Vector Composition | VIS Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -547,7 +547,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>IPO: Interpretable Prompt Optimization for Vision-Language Models</h1>
+  <h1>Variational Task Vector Composition</h1>
 
   
 
@@ -564,7 +564,7 @@
     
 
   
-  <span >Yingjun Du</span>, <span >Wenfang Sun</span>, <span >Cees G. M. Snoek</span>
+  <span >Boyuan Zhang</span>, <span >Yingjun Du</span>, <span >Xiantong Zhen</span>, <span >Ling Shao</span>
   </div>
   
   
@@ -575,7 +575,7 @@
     
       
     
-    December 2024
+    December 2025
   </span>
   
 
@@ -625,7 +625,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/pdf?id=WPPC7FHtaM" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2509.18208" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -656,9 +656,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 210px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 220px;">
   <div style="position: relative">
-    <img src="/vislab/publication/yingjun-neurips-2025/featured_hua413338269c6b51d15d6862d665b08f6_104011_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    <img src="/vislab/publication/yingjun-neurips-2025/featured_hucb43b8d7d9e056eae229002223a0d389_817433_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -669,7 +669,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Pre-trained vision-language models like CLIP have remarkably adapted to various downstream tasks. Nonetheless, their performance heavily depends on the specificity of the input text prompts, which requires skillful prompt template engineering. Instead, current approaches to prompt optimization learn the prompts through gradient descent, where the prompts are treated as adjustable parameters. However, these methods tend to lead to overfitting of the base classes seen during training and produce prompts that are no longer understandable by humans. This paper introduces a simple but interpretable prompt optimizer (IPO), that utilizes large language models (LLMs) to generate textual prompts dynamically. We introduce a Prompt Optimization Prompt that not only guides LLMs in creating effective prompts but also stores past prompts with their performance metrics, providing rich in-context information. Additionally, we incorporate a large multimodal model (LMM) to condition on visual content by generating image descriptions, which enhance the interaction between textual and visual modalities. This allows for the creation of dataset-specific prompts that improve generalization performance, while maintaining human comprehension. Extensive testing across 11 datasets reveals that IPO not only improves the accuracy of existing gradient-descent-based prompt learning methods but also considerably enhances the interpretability of the generated prompts. By leveraging the strengths of LLMs, our approach ensures that the prompts remain human-understandable, thereby facilitating better transparency and oversight for vision-language models.</p>
+    <p class="pub-abstract">Task vectors capture how a model changes during fine-tuning by recording the difference between pre-trained and task-specific weights. The composition of task vectors, a key operator in task arithmetic, enables models to integrate knowledge from multiple tasks without incurring additional inference costs. In this paper, we propose variational task vector composition, where composition coefficients are taken as latent variables and estimated in a Bayesian inference framework. Unlike previous methods that operate at the task level, our framework focuses on sample-specific composition. Motivated by the observation of structural redundancy in task vectors, we introduce a Spike-and-Slab prior that promotes sparsity and preserves only the most informative components. To further address the high variance and sampling inefficiency in sparse, high-dimensional spaces, we develop a gated sampling mechanism that constructs a controllable posterior by filtering the composition coefficients based on both uncertainty and importance. This yields a more stable and interpretable variational framework by deterministically selecting reliable task components, reducing sampling variance while improving transparency and generalization. Experimental results demonstrate that our method consistently outperforms existing approaches across all datasets by selectively leveraging the most reliable and informative components in task vectors. These findings highlight the practical value of our approach, establishing a new standard for efficient and effective task vector composition.</p>
     
 
     
@@ -720,11 +720,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/vislab/tag/transfer/">Transfer</a>
-  
-  <a class="badge badge-light" href="/vislab/tag/low-shot/">low-shot</a>
-  
-  <a class="badge badge-light" href="/vislab/tag/semi-and-un-supervised-learning/">semi- and un-supervised learning</a>
+  <a class="badge badge-light" href="/vislab/tag/generative-model/">generative model</a>
   
 </div>
 
@@ -741,7 +737,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;text=IPO:%20Interpretable%20Prompt%20Optimization%20for%20Vision-Language%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;text=Variational%20Task%20Vector%20Composition" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -754,7 +750,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;t=IPO:%20Interpretable%20Prompt%20Optimization%20for%20Vision-Language%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;t=Variational%20Task%20Vector%20Composition" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -767,7 +763,7 @@
       
       
       <li>
-        <a href="mailto:?subject=IPO:%20Interpretable%20Prompt%20Optimization%20for%20Vision-Language%20Models&amp;body=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Variational%20Task%20Vector%20Composition&amp;body=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -780,7 +776,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;title=IPO:%20Interpretable%20Prompt%20Optimization%20for%20Vision-Language%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;title=Variational%20Task%20Vector%20Composition" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -793,7 +789,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=IPO:%20Interpretable%20Prompt%20Optimization%20for%20Vision-Language%20Models%20https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Variational%20Task%20Vector%20Composition%20https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -806,7 +802,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;title=IPO:%20Interpretable%20Prompt%20Optimization%20for%20Vision-Language%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/&amp;title=Variational%20Task%20Vector%20Composition" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -823,6 +819,17 @@
 
 
 
+
+
+  
+    
+    
+
+
+
+
+
+  
 
 
   
@@ -877,15 +884,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/vislab/publication/yingjun-icml-2023/">MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning with Fewer Tasks</a></li>
+      <li><a href="/vislab/publication/christina-iclr-2025-2/">BrainACTIV: Identifying visuo-semantic properties driving cortical selectivity using diffusion-based image manipulation</a></li>
       
-      <li><a href="/vislab/publication/yingjun-pami-2024/">MetaKernel: Learning Variational Random Features with Limited Labels</a></li>
+      <li><a href="/vislab/publication/phillip-iclr-2025/">Language Agents Meet Causality -- Bridging LLMs and Causal World Models</a></li>
       
-      <li><a href="/vislab/publication/yingjun-neurips-2023/">ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion</a></li>
+      <li><a href="/vislab/publication/tao-eacl-2024/">Flow Matching for Conditional Text Generation in a Few Sampling Steps</a></li>
       
-      <li><a href="/vislab/publication/yingjun-collas-2023/">EMO: Episodic Memory Optimization for Few-Shot Meta-Learning</a></li>
+      <li><a href="/vislab/publication/tao-aaai-2024/">Latent Space Editing in Transformer-Based Flow Matching</a></li>
       
-      <li><a href="/vislab/publication/jie-iccv-2025/">Probabilistic Prototype Calibration of Vision-Language Models for Generalized Few-shot Semantic Segmentation</a></li>
+      <li><a href="/vislab/publication/zenglin-ijcv-2022/">On Measuring and Controlling the Spectral Bias of the Deep Image Prior</a></li>
       
     </ul>
   </div>
