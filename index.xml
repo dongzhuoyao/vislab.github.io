@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Elastic ViTs from Pretrained Models without Retraining</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/michael-neurips-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/michael-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Curse of Depth in Large Language Models</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/wenfang-neurips-2025/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
@@ -25,6 +33,22 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision and Language Training Helps Deploy Taxonomic Knowledge But Does Not Fundamentally Alter It</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/dheeraj-neurips-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/dheeraj-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</guid>
       <description></description>
     </item>
     
@@ -61,6 +85,14 @@
     </item>
     
     <item>
+      <title>Any-Resolution AI-Generated Image Detection by Spectral Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/efstratios-cvpr-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/efstratios-cvpr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/cees-cvpr-2025/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -81,6 +113,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-cvpr-2025/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-cvpr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/efstratios-cvpr-2025-2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/efstratios-cvpr-2025-2/</guid>
       <description></description>
     </item>
     
