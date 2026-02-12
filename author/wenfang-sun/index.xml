@@ -5,12 +5,36 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/wenfang-sun/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/wenfang-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenfang Sun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Wenfang Sun</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/wenfang-sun/</link>
     </image>
+    
+    <item>
+      <title>The Curse of Depth in Large Language Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/wenfang-neurips-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/wenfang-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPO: Interpretable Prompt Optimization for Vision-Language Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2024/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-neurips-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning with Fewer Tasks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icml-2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/yingjun-icml-2023/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Accuracy of deep learning-based AI models for early caries lesion detection: the influence of annotation quality and reference choice</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-clinical-oral-investigations-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-clinical-oral-investigations-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Elastic ViTs from Pretrained Models without Retraining</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/michael-neurips-2025/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/michael-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing Hyperbolic Embedding Distortion with LLM-guided Hierarchy Restructuring</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/melika-kcap-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/melika-kcap-2025/</guid>
       <description></description>
     </item>
     
@@ -45,10 +61,26 @@
     </item>
     
     <item>
-      <title>Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</link>
+      <title>Lost in Time: A New Temporal Benchmark for VideoLLMs</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/michael-bmvc-2025/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</guid>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/michael-bmvc-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting aligned on representational alignment</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/iris-tmlr-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/iris-tmlr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2025/</guid>
       <description></description>
     </item>
     
@@ -65,6 +97,22 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2025/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Language Models Are Natural Video Popularity Predictors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-acl-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-acl-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-distortion and GPU-compatible Tree Embeddings in Hyperbolic Space</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/max-icml-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-icml-2025/</guid>
       <description></description>
     </item>
     
@@ -109,6 +157,14 @@
     </item>
     
     <item>
+      <title>Designing Hierarchies for Optimal Hyperbolic Embedding</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/melika-eswc-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/melika-eswc-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hyperbolic Safety-Aware Vision-Language Models</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-cvpr-2025/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -125,10 +181,58 @@
     </item>
     
     <item>
+      <title>Representation of locomotive action affordances in human behavior, brains, and deep neural networks</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/clemens-pnas-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/clemens-pnas-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Temporally Consistent Object-Centric Learning by Contrasting Slots</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/andrii-cvpr-2025/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/andrii-cvpr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep predictive coding networks partly capture neural signatures of short-term temporal adaptation in human visual cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/amber-ccn-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/amber-ccn-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microtomography to traditional dental radiograph: Projecting 3D initial proximal caries lesion annotations for enhanced radiographic delineation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-dentomaxillofacial-radiology-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-dentomaxillofacial-radiology-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimZSL: Zero-Shot Learning Beyond a Pre-defined Semantic Embedding Space</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/mina-ijcv-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/mina-ijcv-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal misalignment in scene perception: Divergent representations of locomotive action affordances in human brain responses and DNNs</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/clemens-ccn-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/clemens-ccn-2025/</guid>
       <description></description>
     </item>
     
@@ -161,6 +265,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/max-iclr-2025/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/max-iclr-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Day2Dark: Pseudo-Supervised Activity Recognition beyond Silent Daylight</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/cees-ijcv-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/cees-ijcv-2025/</guid>
       <description></description>
     </item>
     
@@ -213,6 +325,14 @@
     </item>
     
     <item>
+      <title>The Sound of Water: Inferring Physical Properties from Pouring Liquids</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/cees-icassp-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/cees-icassp-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TULIP: Token-length Upgraded CLIP</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-iclr-2025/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
@@ -233,6 +353,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimPLR: A Simple and Plain Transformer for Scaling-Efficient Object Detection and Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/cees-tmlr-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/cees-tmlr-2025/</guid>
       <description></description>
     </item>
     
@@ -417,6 +545,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics of short-term neural adaptation across human visual cortex</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/amber-plos-computational-biology-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/amber-plos-computational-biology-2024/</guid>
       <description></description>
     </item>
     

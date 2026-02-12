@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/stefanos-stamatis-achlatis/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/clemens-georg-bartnik/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/leonard-bereska/</loc>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/leonardo-barcellona/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/sathya-kamesh-bhethanabhotla/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/aritra-bhowmik/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/amber-brands/</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/mehmet-altinkaya/</loc>
   </url><url>
@@ -10,21 +22,11 @@
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/carlo-bretti/</loc>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/stefanos-stamatis-achlatis/</loc>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/giacomo-aldegheri/</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/ilze-amanda-auzina/</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/yuki-m.-asano/</loc>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/amber-brands/</loc>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/aritra-bhowmik/</loc>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/clemens-georg-bartnik/</loc>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/leonard-bereska/</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/rein-van-den-boomgaard/</loc>
   </url><url>
@@ -159,6 +161,9 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication-type/1/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/pascal-clinical-oral-investigations-2025/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/adam-dahlgren-lindstrom/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -166,6 +171,9 @@
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/boyuan-zhang/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/bruno-g-loos/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g.m.-snoek/</loc>
@@ -180,7 +188,13 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/michael-neurips-2025/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/erwin-berkhout/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/generative-model/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/henk-marquering/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/kanishka-misra/</loc>
@@ -192,19 +206,37 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/ling-shao/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/llms-and-hyperbolic-learning/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/lu-yin/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/lucia-donatelli/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/medical-deep-learning/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/melika-ayoughi/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/michael-dorkenwald/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/melika-kcap-2025/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/multi-modal-learning/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/najoung-kim/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/pascal-mettes/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/paul-groth/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/pengxiang-li/</loc>
@@ -214,6 +246,9 @@
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/ricardo-e-gonzalez-valenzuela/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/shiwei-liu/</loc>
@@ -261,40 +296,76 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/yulu-qin/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/aris-t.-papageorghiou/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/divyanshu-mishra/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/daniel-cores/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/j.-alison-noble/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/michael-bmvc-2025/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/manuel-mucientes/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/olga-patey/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/video-analysis-and-understanding/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/pramit-saha/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/achterberg-j/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/aritra-bhowmik/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g.-m.-snoek/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/bobu-a/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/chen-s/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/cloos-n/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/collins-km/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/cueva-cj/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/dennis-koelma/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/efstratios-gavves/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/geirhos-r/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/iris-tmlr-2025/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/grant-e/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/greff-k/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/griffiths-tl/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/groen-iia/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/hebart-mn/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/hermann-kl/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/ioana-simion/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/jacoby-n/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/jan-jakob-sonke/</loc>
@@ -306,7 +377,28 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/jie-liu/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/kim-b/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/konkle-t/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/kornblith-s/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/kriegeskorte-n/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/lampinen-ak/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/love-bc/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/low-shot/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/marjieh-r/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/martin-r.-oswald/</loc>
@@ -315,13 +407,55 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/mohammad-mahdi-derakhshani/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/mohammadreza-salehi/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-iccv-2025/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/muttenthaler-l/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/muller-k-r/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/oconnell-tp/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/oktar-k/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/pan-zhou/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/peng-a/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/jie-iccv-2025/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/rane-s/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/representational-alignment/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/self-supervised-learning/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/semi-and-un-supervised-learning/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/shashanka-venkataramanan/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/sucholutsky-i/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/tenenbaum-jb/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/toneva-m/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/transfer/</loc>
@@ -330,7 +464,22 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iccv-2025/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/unterthiner-t/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/weller-a/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/yuki-m-asano/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/zhang-q/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/3d-computer-vision/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/action-and-behavior-recognition/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/andrii-zadaianchuk/</loc>
@@ -345,7 +494,28 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/georg-martius/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/hyperbolic-learning/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/pascal-acl-2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/max-icml-2025/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/max-van-spengler/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/minsu-park/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/nima-dehmamy/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/pavel-kolev/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/pratik-kayal/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/jie-icml-2025/</loc>
@@ -375,6 +545,15 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/efstratios-cvpr-2025/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/aris-t-papageorghiou/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/bartnik-c.g/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/bommer-s/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/c-spartalis/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -385,6 +564,12 @@
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/d-karageorgiou/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/melika-eswc-2025/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/divyanshu-mishra/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/e-gavves/</loc>
@@ -405,6 +590,9 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/i-kompatsiaris/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/j-alison-noble/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/lorenzo-baraldi/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -417,22 +605,46 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/maximilian-seitzer/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/molenkamp-e/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/motion-and-tracking/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/navigational-affordance-perception/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/olga-patey/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/p-daras/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/pascal-mettes/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/pramit-saha/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/puigseslloses-sanchez-a/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/rabiul-awal/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/clemens-pnas-2025/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/rita-cucchiara/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/s-papadopoulos/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/sartzetaki-c/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/scene-perception/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-neurips-2025/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/t-semertzidis/</loc>
@@ -450,6 +662,57 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/visual-reasoning-and-logical-representation/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/vuksic-n/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/brands/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/clemens-g.-bartnik/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/amber-ccn-2025/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/eeg/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/evelyne-i.c.-fraats/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/groen/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/iris-i.a.-groen/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/martin-keller-ressel/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/pascal-dentomaxillofacial-radiology-2025/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/mina-ghadimi-atigh/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/ortiz/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/quoc-t-d-vu/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/mina-ijcv-2025/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/stephanie-nargang/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/clemens-ccn-2025/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/visual-computational-neuroscience/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/ah-hwee-tan/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -457,6 +720,9 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/duy-kien-iclr-2025/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/andrew-zisserman/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/aniket-rajiv-didolkar/</loc>
@@ -474,6 +740,9 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/jie-iclr-2025/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-snoek/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -484,6 +753,9 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/davide-allegro/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/cees-ijcv-2025/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/diego-garcia-cerdas/</loc>
@@ -516,10 +788,10 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/guido-maria-damely-di-melendugno/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/image-manipulation/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/hazel-doughty/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/iris-i.a.-groen/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/image-manipulation/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/ivan-titov/</loc>
@@ -549,13 +821,13 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/mahmoud-assran/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/makarand-tapaswi/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/marcel-worring/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/matthias-lindemann/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/max-van-spengler/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/michael-curtis-mozer/</loc>
@@ -588,10 +860,10 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/phillip-lippe/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/qi-cheems-wang/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/piyush-bagad/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/representational-alignment/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/qi-cheems-wang/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/robot-learning/</loc>
@@ -604,6 +876,9 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/stefano-ghidoni/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/cees-icassp-2025/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/mohammad-iclr-2025/</loc>
@@ -639,6 +914,9 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/yoshua-bengio/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/yunhua-zhang/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/sameer-wacv-2025/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -647,6 +925,18 @@
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/transfer-low-shot-semi-and-un-supervised-learning/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/categorization/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/martin-r-oswald/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/cees-tmlr-2025/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/andrei-bursuc/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
@@ -687,12 +977,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/pascal-bmc-2024/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/erwin-berkhout/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/henk-marquering/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/recognition-object-detection-categorization/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -717,9 +1001,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/amirhossein-habibian/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/cees-g-m-snoek/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/christian-rupprecht/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -733,9 +1014,6 @@
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024-2/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/hazel-doughty/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/hirokatsu-kataoka/</loc>
@@ -775,9 +1053,6 @@
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/mohammadreza-eccv-2024/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/yuki-m-asano/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/zehao-collas-2024/</loc>
@@ -846,9 +1121,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/lars-doorenbos/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/mina-ghadimi-atigh/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/pablo-marquez-neila/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -885,12 +1157,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/tengda-han/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/yunhua-zhang/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/action-and-behavior-recognition/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/alexander-kirillov/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -910,6 +1176,24 @@
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/deep-weight-space/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/devinsky/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/devore/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/doyle/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/dugan/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/flinker/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/friedman/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/graph-neural-networks/</loc>
@@ -942,16 +1226,19 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/nguyen-iclr-2024/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/shashanka-venkataramanan/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024/</loc>
+    <loc>https://ivi.fnwi.uva.nl/vislab/publication/amber-plos-computational-biology-2024/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/vaibhav-aggarwal/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/yuki-iclr-2024-2/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/winawer/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/yan-zhang/</loc>
@@ -976,9 +1263,6 @@
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/jeffrey-gu/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/martin-keller-ressel/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/serena-yeung/</loc>
@@ -1065,9 +1349,6 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/hendrik-vincent-koops/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/video-analysis-and-understanding/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/ai-for-electronics/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -1111,9 +1392,6 @@
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/erik-j-bekkers/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/tag/hyperbolic-learning/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/max-mm-2023/</loc>
@@ -1312,12 +1590,6 @@
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/generative-modelling/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/makarand-tapaswi/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/piyush-bagad/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/tao-cvpr-2023/</loc>
@@ -1585,9 +1857,6 @@
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/gio-piantoni/</loc>
-    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/groen-iia/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/publication/pascal-icml-2022/</loc>
@@ -2032,9 +2301,6 @@
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/aleksandar-shtedritski/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ivi.fnwi.uva.nl/vislab/author/andrew-zisserman/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/tag/bias-and-ethical-ai/</loc>
@@ -3327,14 +3593,32 @@
     <loc>https://ivi.fnwi.uva.nl/vislab/author/z.-li/</loc>
     <lastmod>2020-08-23T21:24:41+02:00</lastmod>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/a./</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/a.-m./</loc>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/categories/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/d./</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/author/gavves-e./</loc>
   </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/i.-i.-a./</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/j./</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/o./</loc>
+  </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/oldnews/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/p./</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/people/</loc>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/vislab/talk/</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/s./</loc>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/vislab/author/w./</loc>
   </url>
 </urlset>
