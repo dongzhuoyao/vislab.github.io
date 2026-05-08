@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Balanced Hyperbolic Embeddings Are Natural Out-of-Distribution Detectors</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-ijcv-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-ijcv-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distributional Vision-Language Alignment by Cauchy-Schwarz Divergence</title>
       <link>https://ivi.fnwi.uva.nl/vislab/publication/wenzhe-iclr-2026/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/wenzhe-iclr-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iclr-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/aritra-iclr-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OrthoRF: Exploring Orthogonality in Object-Centric Representations</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-iclr-2026-2/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-iclr-2026-2/</guid>
       <description></description>
     </item>
     
@@ -41,6 +65,14 @@
       <link>https://ivi.fnwi.uva.nl/vislab/publication/christina-iclr-2026/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/vislab/publication/christina-iclr-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VL-JEPA: Joint Embedding Predictive Architecture for Vision-language</title>
+      <link>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-iclr-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/vislab/publication/tejaswi-iclr-2026/</guid>
       <description></description>
     </item>
     
