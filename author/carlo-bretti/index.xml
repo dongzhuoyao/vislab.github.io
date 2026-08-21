@@ -5,28 +5,12 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/carlo-bretti/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/carlo-bretti/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlo Bretti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Carlo Bretti</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/carlo-bretti/</link>
     </image>
-    
-    <item>
-      <title>Find the Cliffhanger: Multi-modal Trailerness in Soap Operas</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/pascal-mm-2024/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/pascal-mm-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zero-Shot Action Recognition from Diverse Object-Scene Compositions</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/carlo-bmvc-2021/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/carlo-bmvc-2021/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
