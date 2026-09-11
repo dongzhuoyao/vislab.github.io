@@ -5,20 +5,12 @@
     <link>https://ivi.fnwi.uva.nl/vislab/author/david-zhang/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/vislab/author/david-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>David Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://ivi.fnwi.uva.nl/vislab/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>David Zhang</title>
       <link>https://ivi.fnwi.uva.nl/vislab/author/david-zhang/</link>
     </image>
-    
-    <item>
-      <title>Set Prediction without Imposing Structure as Conditional Density Estimation</title>
-      <link>https://ivi.fnwi.uva.nl/vislab/publication/davidzhang-iclr-2021/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/vislab/publication/davidzhang-iclr-2021/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
